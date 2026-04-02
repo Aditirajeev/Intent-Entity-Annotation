@@ -1,0 +1,3001 @@
+id,text,intent,author
+1,Tell me the price of the laptop,price_query,user
+2,What is the cost of this item?,price_query,user
+3,What is the price of this product?,price_query,user
+4,How much do I need to pay?,price_query,user
+5,How much does this cost?,price_query,user
+6,What is the cost of this item?,price_query,user
+7,What is the cost of this item?,price_query,user
+8,What is the cost of this item?,price_query,user
+9,How much do I need to pay?,price_query,user
+10,How much do I need to pay?,price_query,user
+11,What is the price of this product?,price_query,user
+12,How much does this cost?,price_query,user
+13,How much do I need to pay?,price_query,user
+14,Tell me the price of the laptop,price_query,user
+15,Tell me the price of the laptop,price_query,user
+16,What is the cost of this item?,price_query,user
+17,What is the price of this product?,price_query,user
+18,What is the price of this product?,price_query,user
+19,What is the cost of this item?,price_query,user
+20,How much do I need to pay?,price_query,user
+21,Tell me the price of the laptop,price_query,user
+22,What is the cost of this item?,price_query,user
+23,How much does this cost?,price_query,user
+24,Tell me the price of the laptop,price_query,user
+25,What is the cost of this item?,price_query,user
+26,Tell me the price of the laptop,price_query,user
+27,How much does this cost?,price_query,user
+28,Tell me the price of the laptop,price_query,user
+29,What is the cost of this item?,price_query,user
+30,What is the cost of this item?,price_query,user
+31,What is the cost of this item?,price_query,user
+32,What is the price of this product?,price_query,user
+33,What is the cost of this item?,price_query,user
+34,How much do I need to pay?,price_query,user
+35,What is the price of this product?,price_query,user
+36,What is the cost of this item?,price_query,user
+37,How much does this cost?,price_query,user
+38,Tell me the price of the laptop,price_query,user
+39,What is the price of this product?,price_query,user
+40,How much does this cost?,price_query,user
+41,What is the price of this product?,price_query,user
+42,How much does this cost?,price_query,user
+43,What is the cost of this item?,price_query,user
+44,How much do I need to pay?,price_query,user
+45,How much do I need to pay?,price_query,user
+46,What is the price of this product?,price_query,user
+47,Tell me the price of the laptop,price_query,user
+48,What is the cost of this item?,price_query,user
+49,What is the cost of this item?,price_query,user
+50,What is the price of this product?,price_query,user
+51,How much do I need to pay?,price_query,user
+52,What is the price of this product?,price_query,user
+53,How much do I need to pay?,price_query,user
+54,Tell me the price of the laptop,price_query,user
+55,How much does this cost?,price_query,user
+56,What is the cost of this item?,price_query,user
+57,What is the price of this product?,price_query,user
+58,How much do I need to pay?,price_query,user
+59,What is the cost of this item?,price_query,user
+60,How much does this cost?,price_query,user
+61,How much does this cost?,price_query,user
+62,What is the cost of this item?,price_query,user
+63,What is the cost of this item?,price_query,user
+64,How much do I need to pay?,price_query,user
+65,Tell me the price of the laptop,price_query,user
+66,Tell me the price of the laptop,price_query,user
+67,What is the price of this product?,price_query,user
+68,Tell me the price of the laptop,price_query,user
+69,What is the price of this product?,price_query,user
+70,Tell me the price of the laptop,price_query,user
+71,What is the cost of this item?,price_query,user
+72,What is the price of this product?,price_query,user
+73,How much do I need to pay?,price_query,user
+74,What is the price of this product?,price_query,user
+75,What is the price of this product?,price_query,user
+76,How much do I need to pay?,price_query,user
+77,What is the cost of this item?,price_query,user
+78,What is the price of this product?,price_query,user
+79,What is the cost of this item?,price_query,user
+80,How much does this cost?,price_query,user
+81,How much do I need to pay?,price_query,user
+82,What is the price of this product?,price_query,user
+83,What is the cost of this item?,price_query,user
+84,What is the cost of this item?,price_query,user
+85,What is the price of this product?,price_query,user
+86,What is the cost of this item?,price_query,user
+87,What is the cost of this item?,price_query,user
+88,How much do I need to pay?,price_query,user
+89,What is the cost of this item?,price_query,user
+90,How much does this cost?,price_query,user
+91,Tell me the price of the laptop,price_query,user
+92,What is the price of this product?,price_query,user
+93,What is the price of this product?,price_query,user
+94,How much do I need to pay?,price_query,user
+95,How much do I need to pay?,price_query,user
+96,How much does this cost?,price_query,user
+97,What is the cost of this item?,price_query,user
+98,What is the cost of this item?,price_query,user
+99,How much do I need to pay?,price_query,user
+100,How much do I need to pay?,price_query,user
+101,What is the cost of this item?,price_query,user
+102,How much do I need to pay?,price_query,user
+103,How much do I need to pay?,price_query,user
+104,What is the cost of this item?,price_query,user
+105,How much do I need to pay?,price_query,user
+106,How much do I need to pay?,price_query,user
+107,Tell me the price of the laptop,price_query,user
+108,Tell me the price of the laptop,price_query,user
+109,How much do I need to pay?,price_query,user
+110,What is the cost of this item?,price_query,user
+111,What is the cost of this item?,price_query,user
+112,Tell me the price of the laptop,price_query,user
+113,What is the cost of this item?,price_query,user
+114,How much do I need to pay?,price_query,user
+115,What is the cost of this item?,price_query,user
+116,How much does this cost?,price_query,user
+117,What is the price of this product?,price_query,user
+118,What is the cost of this item?,price_query,user
+119,How much do I need to pay?,price_query,user
+120,How much does this cost?,price_query,user
+121,What is the price of this product?,price_query,user
+122,What is the cost of this item?,price_query,user
+123,What is the price of this product?,price_query,user
+124,How much does this cost?,price_query,user
+125,Tell me the price of the laptop,price_query,user
+126,How much do I need to pay?,price_query,user
+127,Tell me the price of the laptop,price_query,user
+128,What is the cost of this item?,price_query,user
+129,How much does this cost?,price_query,user
+130,How much do I need to pay?,price_query,user
+131,What is the price of this product?,price_query,user
+132,Tell me the price of the laptop,price_query,user
+133,How much does this cost?,price_query,user
+134,How much do I need to pay?,price_query,user
+135,What is the price of this product?,price_query,user
+136,What is the price of this product?,price_query,user
+137,How much does this cost?,price_query,user
+138,What is the cost of this item?,price_query,user
+139,What is the price of this product?,price_query,user
+140,How much does this cost?,price_query,user
+141,Tell me the price of the laptop,price_query,user
+142,Tell me the price of the laptop,price_query,user
+143,What is the cost of this item?,price_query,user
+144,How much do I need to pay?,price_query,user
+145,How much does this cost?,price_query,user
+146,How much do I need to pay?,price_query,user
+147,What is the cost of this item?,price_query,user
+148,How much do I need to pay?,price_query,user
+149,How much do I need to pay?,price_query,user
+150,What is the price of this product?,price_query,user
+151,How much does this cost?,price_query,user
+152,What is the price of this product?,price_query,user
+153,How much do I need to pay?,price_query,user
+154,How much do I need to pay?,price_query,user
+155,What is the cost of this item?,price_query,user
+156,What is the cost of this item?,price_query,user
+157,What is the price of this product?,price_query,user
+158,How much does this cost?,price_query,user
+159,How much do I need to pay?,price_query,user
+160,What is the price of this product?,price_query,user
+161,Tell me the price of the laptop,price_query,user
+162,What is the price of this product?,price_query,user
+163,Tell me the price of the laptop,price_query,user
+164,Tell me the price of the laptop,price_query,user
+165,What is the cost of this item?,price_query,user
+166,Tell me the price of the laptop,price_query,user
+167,How much does this cost?,price_query,user
+168,How much does this cost?,price_query,user
+169,What is the price of this product?,price_query,user
+170,How much does this cost?,price_query,user
+171,How much does this cost?,price_query,user
+172,Tell me the price of the laptop,price_query,user
+173,How much does this cost?,price_query,user
+174,How much do I need to pay?,price_query,user
+175,Tell me the price of the laptop,price_query,user
+176,What is the price of this product?,price_query,user
+177,What is the price of this product?,price_query,user
+178,What is the cost of this item?,price_query,user
+179,What is the cost of this item?,price_query,user
+180,How much does this cost?,price_query,user
+181,Tell me the price of the laptop,price_query,user
+182,Tell me the price of the laptop,price_query,user
+183,How much does this cost?,price_query,user
+184,What is the price of this product?,price_query,user
+185,What is the cost of this item?,price_query,user
+186,How much does this cost?,price_query,user
+187,Tell me the price of the laptop,price_query,user
+188,Tell me the price of the laptop,price_query,user
+189,What is the cost of this item?,price_query,user
+190,How much do I need to pay?,price_query,user
+191,Tell me the price of the laptop,price_query,user
+192,How much does this cost?,price_query,user
+193,What is the cost of this item?,price_query,user
+194,How much does this cost?,price_query,user
+195,Tell me the price of the laptop,price_query,user
+196,Tell me the price of the laptop,price_query,user
+197,How much do I need to pay?,price_query,user
+198,How much do I need to pay?,price_query,user
+199,How much do I need to pay?,price_query,user
+200,What is the cost of this item?,price_query,user
+201,Tell me the price of the laptop,price_query,user
+202,Tell me the price of the laptop,price_query,user
+203,Tell me the price of the laptop,price_query,user
+204,Tell me the price of the laptop,price_query,user
+205,What is the cost of this item?,price_query,user
+206,How much does this cost?,price_query,user
+207,How much do I need to pay?,price_query,user
+208,How much do I need to pay?,price_query,user
+209,What is the price of this product?,price_query,user
+210,What is the price of this product?,price_query,user
+211,What is the price of this product?,price_query,user
+212,How much does this cost?,price_query,user
+213,How much does this cost?,price_query,user
+214,Tell me the price of the laptop,price_query,user
+215,What is the cost of this item?,price_query,user
+216,How much do I need to pay?,price_query,user
+217,How much do I need to pay?,price_query,user
+218,How much does this cost?,price_query,user
+219,What is the price of this product?,price_query,user
+220,Tell me the price of the laptop,price_query,user
+221,What is the price of this product?,price_query,user
+222,How much does this cost?,price_query,user
+223,What is the price of this product?,price_query,user
+224,How much do I need to pay?,price_query,user
+225,Tell me the price of the laptop,price_query,user
+226,Tell me the price of the laptop,price_query,user
+227,How much do I need to pay?,price_query,user
+228,What is the price of this product?,price_query,user
+229,How much does this cost?,price_query,user
+230,How much does this cost?,price_query,user
+231,How much do I need to pay?,price_query,user
+232,How much does this cost?,price_query,user
+233,What is the price of this product?,price_query,user
+234,What is the cost of this item?,price_query,user
+235,How much does this cost?,price_query,user
+236,Tell me the price of the laptop,price_query,user
+237,How much does this cost?,price_query,user
+238,What is the cost of this item?,price_query,user
+239,What is the cost of this item?,price_query,user
+240,Tell me the price of the laptop,price_query,user
+241,Tell me the price of the laptop,price_query,user
+242,What is the price of this product?,price_query,user
+243,What is the price of this product?,price_query,user
+244,What is the cost of this item?,price_query,user
+245,Tell me the price of the laptop,price_query,user
+246,How much does this cost?,price_query,user
+247,Tell me the price of the laptop,price_query,user
+248,What is the cost of this item?,price_query,user
+249,Tell me the price of the laptop,price_query,user
+250,What is the price of this product?,price_query,user
+251,What is the cost of this item?,price_query,user
+252,Tell me the price of the laptop,price_query,user
+253,How much do I need to pay?,price_query,user
+254,Tell me the price of the laptop,price_query,user
+255,Tell me the price of the laptop,price_query,user
+256,What is the price of this product?,price_query,user
+257,What is the cost of this item?,price_query,user
+258,How much do I need to pay?,price_query,user
+259,How much do I need to pay?,price_query,user
+260,How much does this cost?,price_query,user
+261,How much does this cost?,price_query,user
+262,What is the cost of this item?,price_query,user
+263,What is the price of this product?,price_query,user
+264,What is the price of this product?,price_query,user
+265,What is the cost of this item?,price_query,user
+266,Tell me the price of the laptop,price_query,user
+267,How much does this cost?,price_query,user
+268,How much do I need to pay?,price_query,user
+269,How much does this cost?,price_query,user
+270,Tell me the price of the laptop,price_query,user
+271,What is the cost of this item?,price_query,user
+272,What is the cost of this item?,price_query,user
+273,Tell me the price of the laptop,price_query,user
+274,What is the price of this product?,price_query,user
+275,What is the price of this product?,price_query,user
+276,How much do I need to pay?,price_query,user
+277,What is the price of this product?,price_query,user
+278,Tell me the price of the laptop,price_query,user
+279,How much does this cost?,price_query,user
+280,How much does this cost?,price_query,user
+281,Tell me the price of the laptop,price_query,user
+282,How much does this cost?,price_query,user
+283,What is the price of this product?,price_query,user
+284,How much does this cost?,price_query,user
+285,Tell me the price of the laptop,price_query,user
+286,What is the price of this product?,price_query,user
+287,What is the cost of this item?,price_query,user
+288,What is the price of this product?,price_query,user
+289,How much does this cost?,price_query,user
+290,What is the cost of this item?,price_query,user
+291,How much do I need to pay?,price_query,user
+292,How much do I need to pay?,price_query,user
+293,How much do I need to pay?,price_query,user
+294,What is the price of this product?,price_query,user
+295,What is the price of this product?,price_query,user
+296,Tell me the price of the laptop,price_query,user
+297,What is the price of this product?,price_query,user
+298,What is the price of this product?,price_query,user
+299,How much does this cost?,price_query,user
+300,How much do I need to pay?,price_query,user
+301,How much do I need to pay?,price_query,user
+302,How much do I need to pay?,price_query,user
+303,Tell me the price of the laptop,price_query,user
+304,What is the cost of this item?,price_query,user
+305,Tell me the price of the laptop,price_query,user
+306,What is the cost of this item?,price_query,user
+307,What is the cost of this item?,price_query,user
+308,Tell me the price of the laptop,price_query,user
+309,What is the cost of this item?,price_query,user
+310,What is the cost of this item?,price_query,user
+311,Tell me the price of the laptop,price_query,user
+312,What is the price of this product?,price_query,user
+313,What is the cost of this item?,price_query,user
+314,How much do I need to pay?,price_query,user
+315,What is the cost of this item?,price_query,user
+316,Tell me the price of the laptop,price_query,user
+317,How much do I need to pay?,price_query,user
+318,What is the cost of this item?,price_query,user
+319,What is the cost of this item?,price_query,user
+320,Tell me the price of the laptop,price_query,user
+321,What is the price of this product?,price_query,user
+322,How much do I need to pay?,price_query,user
+323,Tell me the price of the laptop,price_query,user
+324,How much do I need to pay?,price_query,user
+325,How much do I need to pay?,price_query,user
+326,What is the price of this product?,price_query,user
+327,What is the price of this product?,price_query,user
+328,Tell me the price of the laptop,price_query,user
+329,What is the cost of this item?,price_query,user
+330,How much does this cost?,price_query,user
+331,How much does this cost?,price_query,user
+332,Tell me the price of the laptop,price_query,user
+333,What is the price of this product?,price_query,user
+334,How much does this cost?,price_query,user
+335,Tell me the price of the laptop,price_query,user
+336,Tell me the price of the laptop,price_query,user
+337,How much does this cost?,price_query,user
+338,How much do I need to pay?,price_query,user
+339,Tell me the price of the laptop,price_query,user
+340,How much do I need to pay?,price_query,user
+341,How much does this cost?,price_query,user
+342,Tell me the price of the laptop,price_query,user
+343,How much do I need to pay?,price_query,user
+344,How much does this cost?,price_query,user
+345,How much does this cost?,price_query,user
+346,What is the cost of this item?,price_query,user
+347,What is the price of this product?,price_query,user
+348,How much do I need to pay?,price_query,user
+349,Tell me the price of the laptop,price_query,user
+350,How much does this cost?,price_query,user
+351,What is the price of this product?,price_query,user
+352,What is the price of this product?,price_query,user
+353,How much does this cost?,price_query,user
+354,Tell me the price of the laptop,price_query,user
+355,What is the price of this product?,price_query,user
+356,How much do I need to pay?,price_query,user
+357,Tell me the price of the laptop,price_query,user
+358,How much does this cost?,price_query,user
+359,What is the price of this product?,price_query,user
+360,Tell me the price of the laptop,price_query,user
+361,What is the price of this product?,price_query,user
+362,How much do I need to pay?,price_query,user
+363,What is the cost of this item?,price_query,user
+364,What is the cost of this item?,price_query,user
+365,How much does this cost?,price_query,user
+366,What is the price of this product?,price_query,user
+367,Tell me the price of the laptop,price_query,user
+368,Tell me the price of the laptop,price_query,user
+369,What is the price of this product?,price_query,user
+370,How much do I need to pay?,price_query,user
+371,How much does this cost?,price_query,user
+372,Tell me the price of the laptop,price_query,user
+373,How much do I need to pay?,price_query,user
+374,What is the price of this product?,price_query,user
+375,What is the cost of this item?,price_query,user
+376,How much does this cost?,price_query,user
+377,How much does this cost?,price_query,user
+378,How much do I need to pay?,price_query,user
+379,Tell me the price of the laptop,price_query,user
+380,How much do I need to pay?,price_query,user
+381,How much does this cost?,price_query,user
+382,Tell me the price of the laptop,price_query,user
+383,How much do I need to pay?,price_query,user
+384,How much do I need to pay?,price_query,user
+385,How much do I need to pay?,price_query,user
+386,How much do I need to pay?,price_query,user
+387,How much does this cost?,price_query,user
+388,Tell me the price of the laptop,price_query,user
+389,Tell me the price of the laptop,price_query,user
+390,Tell me the price of the laptop,price_query,user
+391,Tell me the price of the laptop,price_query,user
+392,What is the cost of this item?,price_query,user
+393,Tell me the price of the laptop,price_query,user
+394,Tell me the price of the laptop,price_query,user
+395,Tell me the price of the laptop,price_query,user
+396,What is the price of this product?,price_query,user
+397,How much does this cost?,price_query,user
+398,How much do I need to pay?,price_query,user
+399,How much does this cost?,price_query,user
+400,What is the cost of this item?,price_query,user
+401,How much do I need to pay?,price_query,user
+402,What is the price of this product?,price_query,user
+403,What is the price of this product?,price_query,user
+404,How much does this cost?,price_query,user
+405,Tell me the price of the laptop,price_query,user
+406,How much do I need to pay?,price_query,user
+407,Tell me the price of the laptop,price_query,user
+408,How much do I need to pay?,price_query,user
+409,How much do I need to pay?,price_query,user
+410,How much does this cost?,price_query,user
+411,What is the price of this product?,price_query,user
+412,What is the cost of this item?,price_query,user
+413,What is the cost of this item?,price_query,user
+414,How much do I need to pay?,price_query,user
+415,How much do I need to pay?,price_query,user
+416,How much do I need to pay?,price_query,user
+417,Tell me the price of the laptop,price_query,user
+418,What is the price of this product?,price_query,user
+419,How much does this cost?,price_query,user
+420,What is the cost of this item?,price_query,user
+421,How much do I need to pay?,price_query,user
+422,What is the price of this product?,price_query,user
+423,What is the cost of this item?,price_query,user
+424,How much do I need to pay?,price_query,user
+425,What is the cost of this item?,price_query,user
+426,How much do I need to pay?,price_query,user
+427,What is the price of this product?,price_query,user
+428,What is the price of this product?,price_query,user
+429,How much does this cost?,price_query,user
+430,What is the cost of this item?,price_query,user
+431,What is the cost of this item?,price_query,user
+432,How much do I need to pay?,price_query,user
+433,What is the price of this product?,price_query,user
+434,Tell me the price of the laptop,price_query,user
+435,What is the cost of this item?,price_query,user
+436,Tell me the price of the laptop,price_query,user
+437,What is the cost of this item?,price_query,user
+438,Tell me the price of the laptop,price_query,user
+439,How much do I need to pay?,price_query,user
+440,How much does this cost?,price_query,user
+441,How much does this cost?,price_query,user
+442,How much does this cost?,price_query,user
+443,How much do I need to pay?,price_query,user
+444,How much does this cost?,price_query,user
+445,What is the price of this product?,price_query,user
+446,Tell me the price of the laptop,price_query,user
+447,How much does this cost?,price_query,user
+448,What is the cost of this item?,price_query,user
+449,How much do I need to pay?,price_query,user
+450,What is the cost of this item?,price_query,user
+451,What is the cost of this item?,price_query,user
+452,Tell me the price of the laptop,price_query,user
+453,Tell me the price of the laptop,price_query,user
+454,What is the price of this product?,price_query,user
+455,How much do I need to pay?,price_query,user
+456,What is the price of this product?,price_query,user
+457,How much does this cost?,price_query,user
+458,Tell me the price of the laptop,price_query,user
+459,How much do I need to pay?,price_query,user
+460,What is the cost of this item?,price_query,user
+461,Tell me the price of the laptop,price_query,user
+462,How much do I need to pay?,price_query,user
+463,What is the cost of this item?,price_query,user
+464,What is the cost of this item?,price_query,user
+465,Tell me the price of the laptop,price_query,user
+466,What is the cost of this item?,price_query,user
+467,How much does this cost?,price_query,user
+468,What is the price of this product?,price_query,user
+469,Tell me the price of the laptop,price_query,user
+470,What is the cost of this item?,price_query,user
+471,Tell me the price of the laptop,price_query,user
+472,How much does this cost?,price_query,user
+473,How much do I need to pay?,price_query,user
+474,What is the price of this product?,price_query,user
+475,What is the price of this product?,price_query,user
+476,What is the price of this product?,price_query,user
+477,How much does this cost?,price_query,user
+478,What is the price of this product?,price_query,user
+479,Tell me the price of the laptop,price_query,user
+480,What is the cost of this item?,price_query,user
+481,How much do I need to pay?,price_query,user
+482,How much does this cost?,price_query,user
+483,Tell me the price of the laptop,price_query,user
+484,How much does this cost?,price_query,user
+485,What is the cost of this item?,price_query,user
+486,What is the cost of this item?,price_query,user
+487,How much do I need to pay?,price_query,user
+488,How much do I need to pay?,price_query,user
+489,Tell me the price of the laptop,price_query,user
+490,What is the price of this product?,price_query,user
+491,How much does this cost?,price_query,user
+492,How much does this cost?,price_query,user
+493,What is the cost of this item?,price_query,user
+494,What is the cost of this item?,price_query,user
+495,How much do I need to pay?,price_query,user
+496,What is the price of this product?,price_query,user
+497,What is the cost of this item?,price_query,user
+498,What is the price of this product?,price_query,user
+499,How much do I need to pay?,price_query,user
+500,Tell me the price of the laptop,price_query,user
+501,How much do I need to pay?,price_query,user
+502,How much does this cost?,price_query,user
+503,Tell me the price of the laptop,price_query,user
+504,How much does this cost?,price_query,user
+505,Tell me the price of the laptop,price_query,user
+506,What is the cost of this item?,price_query,user
+507,What is the cost of this item?,price_query,user
+508,What is the price of this product?,price_query,user
+509,Tell me the price of the laptop,price_query,user
+510,What is the price of this product?,price_query,user
+511,What is the price of this product?,price_query,user
+512,How much do I need to pay?,price_query,user
+513,What is the cost of this item?,price_query,user
+514,What is the cost of this item?,price_query,user
+515,How much does this cost?,price_query,user
+516,Tell me the price of the laptop,price_query,user
+517,Tell me the price of the laptop,price_query,user
+518,What is the cost of this item?,price_query,user
+519,Tell me the price of the laptop,price_query,user
+520,Tell me the price of the laptop,price_query,user
+521,What is the cost of this item?,price_query,user
+522,What is the price of this product?,price_query,user
+523,How much do I need to pay?,price_query,user
+524,How much does this cost?,price_query,user
+525,How much do I need to pay?,price_query,user
+526,What is the cost of this item?,price_query,user
+527,How much does this cost?,price_query,user
+528,What is the price of this product?,price_query,user
+529,What is the price of this product?,price_query,user
+530,How much does this cost?,price_query,user
+531,What is the price of this product?,price_query,user
+532,What is the cost of this item?,price_query,user
+533,What is the price of this product?,price_query,user
+534,How much do I need to pay?,price_query,user
+535,What is the price of this product?,price_query,user
+536,Tell me the price of the laptop,price_query,user
+537,What is the cost of this item?,price_query,user
+538,What is the cost of this item?,price_query,user
+539,Tell me the price of the laptop,price_query,user
+540,Tell me the price of the laptop,price_query,user
+541,How much does this cost?,price_query,user
+542,What is the cost of this item?,price_query,user
+543,What is the cost of this item?,price_query,user
+544,What is the cost of this item?,price_query,user
+545,Tell me the price of the laptop,price_query,user
+546,What is the price of this product?,price_query,user
+547,What is the cost of this item?,price_query,user
+548,What is the price of this product?,price_query,user
+549,How much does this cost?,price_query,user
+550,What is the cost of this item?,price_query,user
+551,What is the price of this product?,price_query,user
+552,What is the price of this product?,price_query,user
+553,How much do I need to pay?,price_query,user
+554,What is the price of this product?,price_query,user
+555,Tell me the price of the laptop,price_query,user
+556,What is the cost of this item?,price_query,user
+557,What is the price of this product?,price_query,user
+558,How much does this cost?,price_query,user
+559,How much does this cost?,price_query,user
+560,How much does this cost?,price_query,user
+561,What is the cost of this item?,price_query,user
+562,How much do I need to pay?,price_query,user
+563,How much do I need to pay?,price_query,user
+564,What is the cost of this item?,price_query,user
+565,Tell me the price of the laptop,price_query,user
+566,How much do I need to pay?,price_query,user
+567,What is the cost of this item?,price_query,user
+568,Tell me the price of the laptop,price_query,user
+569,Tell me the price of the laptop,price_query,user
+570,What is the cost of this item?,price_query,user
+571,Tell me the price of the laptop,price_query,user
+572,How much do I need to pay?,price_query,user
+573,How much does this cost?,price_query,user
+574,What is the cost of this item?,price_query,user
+575,What is the cost of this item?,price_query,user
+576,What is the cost of this item?,price_query,user
+577,What is the cost of this item?,price_query,user
+578,Tell me the price of the laptop,price_query,user
+579,What is the price of this product?,price_query,user
+580,How much does this cost?,price_query,user
+581,What is the cost of this item?,price_query,user
+582,How much do I need to pay?,price_query,user
+583,Tell me the price of the laptop,price_query,user
+584,What is the price of this product?,price_query,user
+585,How much does this cost?,price_query,user
+586,What is the price of this product?,price_query,user
+587,What is the cost of this item?,price_query,user
+588,How much do I need to pay?,price_query,user
+589,How much do I need to pay?,price_query,user
+590,What is the price of this product?,price_query,user
+591,What is the cost of this item?,price_query,user
+592,What is the cost of this item?,price_query,user
+593,What is the price of this product?,price_query,user
+594,Tell me the price of the laptop,price_query,user
+595,How much do I need to pay?,price_query,user
+596,What is the price of this product?,price_query,user
+597,How much do I need to pay?,price_query,user
+598,What is the cost of this item?,price_query,user
+599,How much does this cost?,price_query,user
+600,What is the price of this product?,price_query,user
+601,How much do I need to pay?,price_query,user
+602,How much does this cost?,price_query,user
+603,What is the cost of this item?,price_query,user
+604,How much does this cost?,price_query,user
+605,Tell me the price of the laptop,price_query,user
+606,How much does this cost?,price_query,user
+607,Tell me the price of the laptop,price_query,user
+608,Tell me the price of the laptop,price_query,user
+609,Tell me the price of the laptop,price_query,user
+610,What is the cost of this item?,price_query,user
+611,What is the cost of this item?,price_query,user
+612,How much do I need to pay?,price_query,user
+613,How much does this cost?,price_query,user
+614,How much does this cost?,price_query,user
+615,Tell me the price of the laptop,price_query,user
+616,How much does this cost?,price_query,user
+617,What is the cost of this item?,price_query,user
+618,What is the price of this product?,price_query,user
+619,How much does this cost?,price_query,user
+620,How much does this cost?,price_query,user
+621,How much does this cost?,price_query,user
+622,Tell me the price of the laptop,price_query,user
+623,What is the cost of this item?,price_query,user
+624,What is the price of this product?,price_query,user
+625,What is the price of this product?,price_query,user
+626,Tell me the price of the laptop,price_query,user
+627,What is the cost of this item?,price_query,user
+628,How much does this cost?,price_query,user
+629,What is the cost of this item?,price_query,user
+630,What is the cost of this item?,price_query,user
+631,Tell me the price of the laptop,price_query,user
+632,What is the price of this product?,price_query,user
+633,Tell me the price of the laptop,price_query,user
+634,Tell me the price of the laptop,price_query,user
+635,How much does this cost?,price_query,user
+636,How much do I need to pay?,price_query,user
+637,What is the cost of this item?,price_query,user
+638,How much do I need to pay?,price_query,user
+639,What is the price of this product?,price_query,user
+640,How much does this cost?,price_query,user
+641,What is the price of this product?,price_query,user
+642,What is the cost of this item?,price_query,user
+643,What is the price of this product?,price_query,user
+644,Tell me the price of the laptop,price_query,user
+645,How much does this cost?,price_query,user
+646,What is the price of this product?,price_query,user
+647,How much do I need to pay?,price_query,user
+648,What is the price of this product?,price_query,user
+649,How much do I need to pay?,price_query,user
+650,How much does this cost?,price_query,user
+651,Tell me the price of the laptop,price_query,user
+652,How much do I need to pay?,price_query,user
+653,How much do I need to pay?,price_query,user
+654,How much does this cost?,price_query,user
+655,How much do I need to pay?,price_query,user
+656,How much do I need to pay?,price_query,user
+657,What is the cost of this item?,price_query,user
+658,What is the price of this product?,price_query,user
+659,How much do I need to pay?,price_query,user
+660,Tell me the price of the laptop,price_query,user
+661,Tell me the price of the laptop,price_query,user
+662,How much does this cost?,price_query,user
+663,How much do I need to pay?,price_query,user
+664,What is the price of this product?,price_query,user
+665,How much do I need to pay?,price_query,user
+666,How much does this cost?,price_query,user
+667,How much does this cost?,price_query,user
+668,What is the cost of this item?,price_query,user
+669,What is the price of this product?,price_query,user
+670,How much does this cost?,price_query,user
+671,How much do I need to pay?,price_query,user
+672,What is the cost of this item?,price_query,user
+673,How much do I need to pay?,price_query,user
+674,Tell me the price of the laptop,price_query,user
+675,Tell me the price of the laptop,price_query,user
+676,How much does this cost?,price_query,user
+677,How much does this cost?,price_query,user
+678,What is the cost of this item?,price_query,user
+679,What is the cost of this item?,price_query,user
+680,How much do I need to pay?,price_query,user
+681,Tell me the price of the laptop,price_query,user
+682,How much do I need to pay?,price_query,user
+683,Tell me the price of the laptop,price_query,user
+684,What is the price of this product?,price_query,user
+685,How much do I need to pay?,price_query,user
+686,What is the price of this product?,price_query,user
+687,Tell me the price of the laptop,price_query,user
+688,What is the cost of this item?,price_query,user
+689,Tell me the price of the laptop,price_query,user
+690,Tell me the price of the laptop,price_query,user
+691,Tell me the price of the laptop,price_query,user
+692,Tell me the price of the laptop,price_query,user
+693,What is the cost of this item?,price_query,user
+694,What is the cost of this item?,price_query,user
+695,Tell me the price of the laptop,price_query,user
+696,Tell me the price of the laptop,price_query,user
+697,What is the cost of this item?,price_query,user
+698,What is the price of this product?,price_query,user
+699,Tell me the price of the laptop,price_query,user
+700,Tell me the price of the laptop,price_query,user
+701,How much does this cost?,price_query,user
+702,How much does this cost?,price_query,user
+703,How much does this cost?,price_query,user
+704,Tell me the price of the laptop,price_query,user
+705,What is the cost of this item?,price_query,user
+706,How much does this cost?,price_query,user
+707,What is the price of this product?,price_query,user
+708,What is the cost of this item?,price_query,user
+709,How much does this cost?,price_query,user
+710,How much does this cost?,price_query,user
+711,What is the cost of this item?,price_query,user
+712,What is the cost of this item?,price_query,user
+713,How much do I need to pay?,price_query,user
+714,What is the cost of this item?,price_query,user
+715,What is the price of this product?,price_query,user
+716,How much does this cost?,price_query,user
+717,Tell me the price of the laptop,price_query,user
+718,Tell me the price of the laptop,price_query,user
+719,What is the cost of this item?,price_query,user
+720,How much does this cost?,price_query,user
+721,What is the cost of this item?,price_query,user
+722,What is the price of this product?,price_query,user
+723,What is the cost of this item?,price_query,user
+724,How much does this cost?,price_query,user
+725,What is the price of this product?,price_query,user
+726,How much do I need to pay?,price_query,user
+727,Tell me the price of the laptop,price_query,user
+728,What is the price of this product?,price_query,user
+729,How much does this cost?,price_query,user
+730,How much do I need to pay?,price_query,user
+731,How much does this cost?,price_query,user
+732,What is the price of this product?,price_query,user
+733,How much do I need to pay?,price_query,user
+734,Tell me the price of the laptop,price_query,user
+735,How much do I need to pay?,price_query,user
+736,How much does this cost?,price_query,user
+737,How much do I need to pay?,price_query,user
+738,How much do I need to pay?,price_query,user
+739,Tell me the price of the laptop,price_query,user
+740,How much do I need to pay?,price_query,user
+741,Tell me the price of the laptop,price_query,user
+742,Tell me the price of the laptop,price_query,user
+743,Tell me the price of the laptop,price_query,user
+744,Tell me the price of the laptop,price_query,user
+745,What is the cost of this item?,price_query,user
+746,How much do I need to pay?,price_query,user
+747,What is the price of this product?,price_query,user
+748,How much do I need to pay?,price_query,user
+749,Tell me the price of the laptop,price_query,user
+750,What is the cost of this item?,price_query,user
+751,How is the weather today?,weather_query,user
+752,Will it rain tomorrow?,weather_query,user
+753,Will it rain tomorrow?,weather_query,user
+754,How is the weather today?,weather_query,user
+755,Will the weather be good today?,weather_query,user
+756,What is the weather like today?,weather_query,user
+757,Will it rain tomorrow?,weather_query,user
+758,Will it rain tomorrow?,weather_query,user
+759,How is the weather today?,weather_query,user
+760,How is the weather today?,weather_query,user
+761,Will it rain tomorrow?,weather_query,user
+762,What's the forecast for today?,weather_query,user
+763,How is the weather today?,weather_query,user
+764,What's the forecast for today?,weather_query,user
+765,What's the forecast for today?,weather_query,user
+766,How is the weather today?,weather_query,user
+767,How is the weather today?,weather_query,user
+768,Will it rain tomorrow?,weather_query,user
+769,Will it rain tomorrow?,weather_query,user
+770,What's the forecast for today?,weather_query,user
+771,How is the weather today?,weather_query,user
+772,Will the weather be good today?,weather_query,user
+773,Will it rain tomorrow?,weather_query,user
+774,What's the forecast for today?,weather_query,user
+775,How is the weather today?,weather_query,user
+776,What's the forecast for today?,weather_query,user
+777,What is the weather like today?,weather_query,user
+778,What's the forecast for today?,weather_query,user
+779,What's the forecast for today?,weather_query,user
+780,How is the weather today?,weather_query,user
+781,How is the weather today?,weather_query,user
+782,Will it rain tomorrow?,weather_query,user
+783,What is the weather like today?,weather_query,user
+784,How is the weather today?,weather_query,user
+785,What is the weather like today?,weather_query,user
+786,What is the weather like today?,weather_query,user
+787,Will the weather be good today?,weather_query,user
+788,What's the forecast for today?,weather_query,user
+789,How is the weather today?,weather_query,user
+790,How is the weather today?,weather_query,user
+791,How is the weather today?,weather_query,user
+792,What's the forecast for today?,weather_query,user
+793,What's the forecast for today?,weather_query,user
+794,What is the weather like today?,weather_query,user
+795,What is the weather like today?,weather_query,user
+796,What is the weather like today?,weather_query,user
+797,How is the weather today?,weather_query,user
+798,Will it rain tomorrow?,weather_query,user
+799,How is the weather today?,weather_query,user
+800,What is the weather like today?,weather_query,user
+801,How is the weather today?,weather_query,user
+802,Will it rain tomorrow?,weather_query,user
+803,What's the forecast for today?,weather_query,user
+804,Will the weather be good today?,weather_query,user
+805,Will it rain tomorrow?,weather_query,user
+806,What is the weather like today?,weather_query,user
+807,What is the weather like today?,weather_query,user
+808,Will it rain tomorrow?,weather_query,user
+809,Will the weather be good today?,weather_query,user
+810,Will the weather be good today?,weather_query,user
+811,How is the weather today?,weather_query,user
+812,What's the forecast for today?,weather_query,user
+813,What's the forecast for today?,weather_query,user
+814,How is the weather today?,weather_query,user
+815,What's the forecast for today?,weather_query,user
+816,What is the weather like today?,weather_query,user
+817,What is the weather like today?,weather_query,user
+818,Will the weather be good today?,weather_query,user
+819,Will it rain tomorrow?,weather_query,user
+820,What's the forecast for today?,weather_query,user
+821,Will the weather be good today?,weather_query,user
+822,Will it rain tomorrow?,weather_query,user
+823,How is the weather today?,weather_query,user
+824,What is the weather like today?,weather_query,user
+825,What's the forecast for today?,weather_query,user
+826,How is the weather today?,weather_query,user
+827,Will it rain tomorrow?,weather_query,user
+828,Will it rain tomorrow?,weather_query,user
+829,What is the weather like today?,weather_query,user
+830,Will the weather be good today?,weather_query,user
+831,How is the weather today?,weather_query,user
+832,What's the forecast for today?,weather_query,user
+833,What is the weather like today?,weather_query,user
+834,Will it rain tomorrow?,weather_query,user
+835,What is the weather like today?,weather_query,user
+836,Will it rain tomorrow?,weather_query,user
+837,What is the weather like today?,weather_query,user
+838,Will the weather be good today?,weather_query,user
+839,Will the weather be good today?,weather_query,user
+840,Will the weather be good today?,weather_query,user
+841,How is the weather today?,weather_query,user
+842,Will the weather be good today?,weather_query,user
+843,Will the weather be good today?,weather_query,user
+844,Will it rain tomorrow?,weather_query,user
+845,Will the weather be good today?,weather_query,user
+846,What is the weather like today?,weather_query,user
+847,Will it rain tomorrow?,weather_query,user
+848,What's the forecast for today?,weather_query,user
+849,How is the weather today?,weather_query,user
+850,What is the weather like today?,weather_query,user
+851,Will the weather be good today?,weather_query,user
+852,Will the weather be good today?,weather_query,user
+853,Will the weather be good today?,weather_query,user
+854,What is the weather like today?,weather_query,user
+855,What is the weather like today?,weather_query,user
+856,What is the weather like today?,weather_query,user
+857,Will it rain tomorrow?,weather_query,user
+858,Will the weather be good today?,weather_query,user
+859,How is the weather today?,weather_query,user
+860,Will it rain tomorrow?,weather_query,user
+861,What's the forecast for today?,weather_query,user
+862,Will it rain tomorrow?,weather_query,user
+863,Will the weather be good today?,weather_query,user
+864,Will it rain tomorrow?,weather_query,user
+865,Will the weather be good today?,weather_query,user
+866,Will it rain tomorrow?,weather_query,user
+867,What is the weather like today?,weather_query,user
+868,Will it rain tomorrow?,weather_query,user
+869,Will the weather be good today?,weather_query,user
+870,Will the weather be good today?,weather_query,user
+871,What's the forecast for today?,weather_query,user
+872,Will it rain tomorrow?,weather_query,user
+873,Will the weather be good today?,weather_query,user
+874,What's the forecast for today?,weather_query,user
+875,Will it rain tomorrow?,weather_query,user
+876,Will the weather be good today?,weather_query,user
+877,Will it rain tomorrow?,weather_query,user
+878,Will it rain tomorrow?,weather_query,user
+879,What is the weather like today?,weather_query,user
+880,What's the forecast for today?,weather_query,user
+881,Will it rain tomorrow?,weather_query,user
+882,What is the weather like today?,weather_query,user
+883,What's the forecast for today?,weather_query,user
+884,How is the weather today?,weather_query,user
+885,Will the weather be good today?,weather_query,user
+886,How is the weather today?,weather_query,user
+887,How is the weather today?,weather_query,user
+888,What's the forecast for today?,weather_query,user
+889,Will the weather be good today?,weather_query,user
+890,How is the weather today?,weather_query,user
+891,How is the weather today?,weather_query,user
+892,Will it rain tomorrow?,weather_query,user
+893,Will it rain tomorrow?,weather_query,user
+894,Will it rain tomorrow?,weather_query,user
+895,What is the weather like today?,weather_query,user
+896,What's the forecast for today?,weather_query,user
+897,Will it rain tomorrow?,weather_query,user
+898,What's the forecast for today?,weather_query,user
+899,Will the weather be good today?,weather_query,user
+900,What is the weather like today?,weather_query,user
+901,What is the weather like today?,weather_query,user
+902,Will it rain tomorrow?,weather_query,user
+903,Will the weather be good today?,weather_query,user
+904,What's the forecast for today?,weather_query,user
+905,What's the forecast for today?,weather_query,user
+906,How is the weather today?,weather_query,user
+907,Will the weather be good today?,weather_query,user
+908,What is the weather like today?,weather_query,user
+909,What's the forecast for today?,weather_query,user
+910,What is the weather like today?,weather_query,user
+911,How is the weather today?,weather_query,user
+912,What is the weather like today?,weather_query,user
+913,Will the weather be good today?,weather_query,user
+914,How is the weather today?,weather_query,user
+915,How is the weather today?,weather_query,user
+916,What's the forecast for today?,weather_query,user
+917,What is the weather like today?,weather_query,user
+918,Will the weather be good today?,weather_query,user
+919,Will the weather be good today?,weather_query,user
+920,Will it rain tomorrow?,weather_query,user
+921,Will the weather be good today?,weather_query,user
+922,How is the weather today?,weather_query,user
+923,What's the forecast for today?,weather_query,user
+924,What's the forecast for today?,weather_query,user
+925,Will it rain tomorrow?,weather_query,user
+926,Will the weather be good today?,weather_query,user
+927,What's the forecast for today?,weather_query,user
+928,How is the weather today?,weather_query,user
+929,How is the weather today?,weather_query,user
+930,How is the weather today?,weather_query,user
+931,How is the weather today?,weather_query,user
+932,How is the weather today?,weather_query,user
+933,How is the weather today?,weather_query,user
+934,What is the weather like today?,weather_query,user
+935,How is the weather today?,weather_query,user
+936,Will it rain tomorrow?,weather_query,user
+937,How is the weather today?,weather_query,user
+938,Will the weather be good today?,weather_query,user
+939,How is the weather today?,weather_query,user
+940,Will the weather be good today?,weather_query,user
+941,Will it rain tomorrow?,weather_query,user
+942,Will it rain tomorrow?,weather_query,user
+943,Will it rain tomorrow?,weather_query,user
+944,What's the forecast for today?,weather_query,user
+945,Will the weather be good today?,weather_query,user
+946,Will it rain tomorrow?,weather_query,user
+947,How is the weather today?,weather_query,user
+948,Will the weather be good today?,weather_query,user
+949,What's the forecast for today?,weather_query,user
+950,What's the forecast for today?,weather_query,user
+951,Will it rain tomorrow?,weather_query,user
+952,How is the weather today?,weather_query,user
+953,What is the weather like today?,weather_query,user
+954,What's the forecast for today?,weather_query,user
+955,Will it rain tomorrow?,weather_query,user
+956,What's the forecast for today?,weather_query,user
+957,What is the weather like today?,weather_query,user
+958,Will it rain tomorrow?,weather_query,user
+959,Will the weather be good today?,weather_query,user
+960,Will it rain tomorrow?,weather_query,user
+961,Will the weather be good today?,weather_query,user
+962,Will it rain tomorrow?,weather_query,user
+963,What is the weather like today?,weather_query,user
+964,What is the weather like today?,weather_query,user
+965,Will it rain tomorrow?,weather_query,user
+966,What is the weather like today?,weather_query,user
+967,Will the weather be good today?,weather_query,user
+968,How is the weather today?,weather_query,user
+969,Will the weather be good today?,weather_query,user
+970,What's the forecast for today?,weather_query,user
+971,Will the weather be good today?,weather_query,user
+972,How is the weather today?,weather_query,user
+973,What's the forecast for today?,weather_query,user
+974,Will it rain tomorrow?,weather_query,user
+975,How is the weather today?,weather_query,user
+976,Will the weather be good today?,weather_query,user
+977,How is the weather today?,weather_query,user
+978,How is the weather today?,weather_query,user
+979,Will the weather be good today?,weather_query,user
+980,Will the weather be good today?,weather_query,user
+981,How is the weather today?,weather_query,user
+982,Will the weather be good today?,weather_query,user
+983,What's the forecast for today?,weather_query,user
+984,Will it rain tomorrow?,weather_query,user
+985,Will the weather be good today?,weather_query,user
+986,What's the forecast for today?,weather_query,user
+987,Will the weather be good today?,weather_query,user
+988,How is the weather today?,weather_query,user
+989,How is the weather today?,weather_query,user
+990,Will it rain tomorrow?,weather_query,user
+991,Will it rain tomorrow?,weather_query,user
+992,Will it rain tomorrow?,weather_query,user
+993,What is the weather like today?,weather_query,user
+994,Will the weather be good today?,weather_query,user
+995,How is the weather today?,weather_query,user
+996,What's the forecast for today?,weather_query,user
+997,Will it rain tomorrow?,weather_query,user
+998,How is the weather today?,weather_query,user
+999,Will the weather be good today?,weather_query,user
+1000,What's the forecast for today?,weather_query,user
+1001,How is the weather today?,weather_query,user
+1002,Will it rain tomorrow?,weather_query,user
+1003,Will the weather be good today?,weather_query,user
+1004,How is the weather today?,weather_query,user
+1005,Will the weather be good today?,weather_query,user
+1006,Will it rain tomorrow?,weather_query,user
+1007,Will the weather be good today?,weather_query,user
+1008,Will the weather be good today?,weather_query,user
+1009,Will the weather be good today?,weather_query,user
+1010,Will it rain tomorrow?,weather_query,user
+1011,Will it rain tomorrow?,weather_query,user
+1012,Will it rain tomorrow?,weather_query,user
+1013,What is the weather like today?,weather_query,user
+1014,Will it rain tomorrow?,weather_query,user
+1015,How is the weather today?,weather_query,user
+1016,What's the forecast for today?,weather_query,user
+1017,How is the weather today?,weather_query,user
+1018,Will it rain tomorrow?,weather_query,user
+1019,Will it rain tomorrow?,weather_query,user
+1020,What's the forecast for today?,weather_query,user
+1021,What is the weather like today?,weather_query,user
+1022,What is the weather like today?,weather_query,user
+1023,What is the weather like today?,weather_query,user
+1024,What's the forecast for today?,weather_query,user
+1025,Will the weather be good today?,weather_query,user
+1026,What is the weather like today?,weather_query,user
+1027,What is the weather like today?,weather_query,user
+1028,Will it rain tomorrow?,weather_query,user
+1029,What's the forecast for today?,weather_query,user
+1030,Will the weather be good today?,weather_query,user
+1031,What's the forecast for today?,weather_query,user
+1032,How is the weather today?,weather_query,user
+1033,Will it rain tomorrow?,weather_query,user
+1034,What's the forecast for today?,weather_query,user
+1035,How is the weather today?,weather_query,user
+1036,Will the weather be good today?,weather_query,user
+1037,Will the weather be good today?,weather_query,user
+1038,Will it rain tomorrow?,weather_query,user
+1039,How is the weather today?,weather_query,user
+1040,Will it rain tomorrow?,weather_query,user
+1041,Will it rain tomorrow?,weather_query,user
+1042,Will it rain tomorrow?,weather_query,user
+1043,What's the forecast for today?,weather_query,user
+1044,Will the weather be good today?,weather_query,user
+1045,What is the weather like today?,weather_query,user
+1046,Will it rain tomorrow?,weather_query,user
+1047,What's the forecast for today?,weather_query,user
+1048,What's the forecast for today?,weather_query,user
+1049,What is the weather like today?,weather_query,user
+1050,What's the forecast for today?,weather_query,user
+1051,Will the weather be good today?,weather_query,user
+1052,What's the forecast for today?,weather_query,user
+1053,What is the weather like today?,weather_query,user
+1054,Will it rain tomorrow?,weather_query,user
+1055,What's the forecast for today?,weather_query,user
+1056,Will the weather be good today?,weather_query,user
+1057,How is the weather today?,weather_query,user
+1058,What is the weather like today?,weather_query,user
+1059,Will it rain tomorrow?,weather_query,user
+1060,Will the weather be good today?,weather_query,user
+1061,What is the weather like today?,weather_query,user
+1062,Will the weather be good today?,weather_query,user
+1063,What's the forecast for today?,weather_query,user
+1064,Will the weather be good today?,weather_query,user
+1065,How is the weather today?,weather_query,user
+1066,What's the forecast for today?,weather_query,user
+1067,What's the forecast for today?,weather_query,user
+1068,What's the forecast for today?,weather_query,user
+1069,How is the weather today?,weather_query,user
+1070,What's the forecast for today?,weather_query,user
+1071,What is the weather like today?,weather_query,user
+1072,How is the weather today?,weather_query,user
+1073,What's the forecast for today?,weather_query,user
+1074,What is the weather like today?,weather_query,user
+1075,Will it rain tomorrow?,weather_query,user
+1076,What's the forecast for today?,weather_query,user
+1077,What's the forecast for today?,weather_query,user
+1078,How is the weather today?,weather_query,user
+1079,How is the weather today?,weather_query,user
+1080,What's the forecast for today?,weather_query,user
+1081,What is the weather like today?,weather_query,user
+1082,What is the weather like today?,weather_query,user
+1083,What is the weather like today?,weather_query,user
+1084,Will the weather be good today?,weather_query,user
+1085,How is the weather today?,weather_query,user
+1086,What's the forecast for today?,weather_query,user
+1087,What is the weather like today?,weather_query,user
+1088,What's the forecast for today?,weather_query,user
+1089,What is the weather like today?,weather_query,user
+1090,Will the weather be good today?,weather_query,user
+1091,Will it rain tomorrow?,weather_query,user
+1092,Will the weather be good today?,weather_query,user
+1093,Will it rain tomorrow?,weather_query,user
+1094,How is the weather today?,weather_query,user
+1095,What is the weather like today?,weather_query,user
+1096,Will it rain tomorrow?,weather_query,user
+1097,How is the weather today?,weather_query,user
+1098,Will the weather be good today?,weather_query,user
+1099,How is the weather today?,weather_query,user
+1100,How is the weather today?,weather_query,user
+1101,How is the weather today?,weather_query,user
+1102,What is the weather like today?,weather_query,user
+1103,Will the weather be good today?,weather_query,user
+1104,Will the weather be good today?,weather_query,user
+1105,What's the forecast for today?,weather_query,user
+1106,How is the weather today?,weather_query,user
+1107,Will the weather be good today?,weather_query,user
+1108,How is the weather today?,weather_query,user
+1109,Will it rain tomorrow?,weather_query,user
+1110,Will it rain tomorrow?,weather_query,user
+1111,Will the weather be good today?,weather_query,user
+1112,Will it rain tomorrow?,weather_query,user
+1113,Will it rain tomorrow?,weather_query,user
+1114,Will the weather be good today?,weather_query,user
+1115,Will the weather be good today?,weather_query,user
+1116,Will it rain tomorrow?,weather_query,user
+1117,Will it rain tomorrow?,weather_query,user
+1118,What is the weather like today?,weather_query,user
+1119,What's the forecast for today?,weather_query,user
+1120,How is the weather today?,weather_query,user
+1121,How is the weather today?,weather_query,user
+1122,What is the weather like today?,weather_query,user
+1123,Will it rain tomorrow?,weather_query,user
+1124,What's the forecast for today?,weather_query,user
+1125,Will it rain tomorrow?,weather_query,user
+1126,Will the weather be good today?,weather_query,user
+1127,Will it rain tomorrow?,weather_query,user
+1128,What's the forecast for today?,weather_query,user
+1129,What's the forecast for today?,weather_query,user
+1130,Will the weather be good today?,weather_query,user
+1131,What is the weather like today?,weather_query,user
+1132,How is the weather today?,weather_query,user
+1133,Will the weather be good today?,weather_query,user
+1134,How is the weather today?,weather_query,user
+1135,What is the weather like today?,weather_query,user
+1136,Will it rain tomorrow?,weather_query,user
+1137,Will it rain tomorrow?,weather_query,user
+1138,What is the weather like today?,weather_query,user
+1139,Will it rain tomorrow?,weather_query,user
+1140,Will it rain tomorrow?,weather_query,user
+1141,Will the weather be good today?,weather_query,user
+1142,How is the weather today?,weather_query,user
+1143,How is the weather today?,weather_query,user
+1144,Will it rain tomorrow?,weather_query,user
+1145,How is the weather today?,weather_query,user
+1146,What's the forecast for today?,weather_query,user
+1147,What is the weather like today?,weather_query,user
+1148,What is the weather like today?,weather_query,user
+1149,Will the weather be good today?,weather_query,user
+1150,Will it rain tomorrow?,weather_query,user
+1151,Will the weather be good today?,weather_query,user
+1152,How is the weather today?,weather_query,user
+1153,What's the forecast for today?,weather_query,user
+1154,What is the weather like today?,weather_query,user
+1155,How is the weather today?,weather_query,user
+1156,What is the weather like today?,weather_query,user
+1157,What's the forecast for today?,weather_query,user
+1158,What's the forecast for today?,weather_query,user
+1159,What is the weather like today?,weather_query,user
+1160,How is the weather today?,weather_query,user
+1161,What's the forecast for today?,weather_query,user
+1162,Will it rain tomorrow?,weather_query,user
+1163,How is the weather today?,weather_query,user
+1164,What is the weather like today?,weather_query,user
+1165,How is the weather today?,weather_query,user
+1166,How is the weather today?,weather_query,user
+1167,What's the forecast for today?,weather_query,user
+1168,How is the weather today?,weather_query,user
+1169,What is the weather like today?,weather_query,user
+1170,What's the forecast for today?,weather_query,user
+1171,How is the weather today?,weather_query,user
+1172,What's the forecast for today?,weather_query,user
+1173,Will it rain tomorrow?,weather_query,user
+1174,What's the forecast for today?,weather_query,user
+1175,What is the weather like today?,weather_query,user
+1176,How is the weather today?,weather_query,user
+1177,What's the forecast for today?,weather_query,user
+1178,How is the weather today?,weather_query,user
+1179,What's the forecast for today?,weather_query,user
+1180,How is the weather today?,weather_query,user
+1181,What is the weather like today?,weather_query,user
+1182,What is the weather like today?,weather_query,user
+1183,How is the weather today?,weather_query,user
+1184,What is the weather like today?,weather_query,user
+1185,What is the weather like today?,weather_query,user
+1186,What's the forecast for today?,weather_query,user
+1187,What's the forecast for today?,weather_query,user
+1188,What is the weather like today?,weather_query,user
+1189,Will the weather be good today?,weather_query,user
+1190,How is the weather today?,weather_query,user
+1191,What's the forecast for today?,weather_query,user
+1192,Will it rain tomorrow?,weather_query,user
+1193,What is the weather like today?,weather_query,user
+1194,What's the forecast for today?,weather_query,user
+1195,How is the weather today?,weather_query,user
+1196,What is the weather like today?,weather_query,user
+1197,What is the weather like today?,weather_query,user
+1198,What's the forecast for today?,weather_query,user
+1199,What is the weather like today?,weather_query,user
+1200,Will it rain tomorrow?,weather_query,user
+1201,Will it rain tomorrow?,weather_query,user
+1202,What's the forecast for today?,weather_query,user
+1203,Will it rain tomorrow?,weather_query,user
+1204,How is the weather today?,weather_query,user
+1205,What's the forecast for today?,weather_query,user
+1206,How is the weather today?,weather_query,user
+1207,Will it rain tomorrow?,weather_query,user
+1208,Will the weather be good today?,weather_query,user
+1209,Will the weather be good today?,weather_query,user
+1210,What's the forecast for today?,weather_query,user
+1211,What's the forecast for today?,weather_query,user
+1212,How is the weather today?,weather_query,user
+1213,What is the weather like today?,weather_query,user
+1214,How is the weather today?,weather_query,user
+1215,Will the weather be good today?,weather_query,user
+1216,Will it rain tomorrow?,weather_query,user
+1217,How is the weather today?,weather_query,user
+1218,What is the weather like today?,weather_query,user
+1219,Will it rain tomorrow?,weather_query,user
+1220,What's the forecast for today?,weather_query,user
+1221,Will the weather be good today?,weather_query,user
+1222,Will the weather be good today?,weather_query,user
+1223,How is the weather today?,weather_query,user
+1224,What is the weather like today?,weather_query,user
+1225,What's the forecast for today?,weather_query,user
+1226,Will it rain tomorrow?,weather_query,user
+1227,What's the forecast for today?,weather_query,user
+1228,Will it rain tomorrow?,weather_query,user
+1229,Will it rain tomorrow?,weather_query,user
+1230,Will it rain tomorrow?,weather_query,user
+1231,Will the weather be good today?,weather_query,user
+1232,What is the weather like today?,weather_query,user
+1233,Will the weather be good today?,weather_query,user
+1234,Will the weather be good today?,weather_query,user
+1235,What's the forecast for today?,weather_query,user
+1236,What's the forecast for today?,weather_query,user
+1237,Will the weather be good today?,weather_query,user
+1238,Will it rain tomorrow?,weather_query,user
+1239,What's the forecast for today?,weather_query,user
+1240,What's the forecast for today?,weather_query,user
+1241,Will the weather be good today?,weather_query,user
+1242,Will the weather be good today?,weather_query,user
+1243,How is the weather today?,weather_query,user
+1244,Will it rain tomorrow?,weather_query,user
+1245,How is the weather today?,weather_query,user
+1246,Will the weather be good today?,weather_query,user
+1247,What is the weather like today?,weather_query,user
+1248,Will the weather be good today?,weather_query,user
+1249,Will it rain tomorrow?,weather_query,user
+1250,How is the weather today?,weather_query,user
+1251,Will the weather be good today?,weather_query,user
+1252,What is the weather like today?,weather_query,user
+1253,Will the weather be good today?,weather_query,user
+1254,How is the weather today?,weather_query,user
+1255,What's the forecast for today?,weather_query,user
+1256,How is the weather today?,weather_query,user
+1257,Will the weather be good today?,weather_query,user
+1258,Will it rain tomorrow?,weather_query,user
+1259,What is the weather like today?,weather_query,user
+1260,Will the weather be good today?,weather_query,user
+1261,Will it rain tomorrow?,weather_query,user
+1262,Will it rain tomorrow?,weather_query,user
+1263,What's the forecast for today?,weather_query,user
+1264,Will it rain tomorrow?,weather_query,user
+1265,What's the forecast for today?,weather_query,user
+1266,What is the weather like today?,weather_query,user
+1267,Will it rain tomorrow?,weather_query,user
+1268,Will it rain tomorrow?,weather_query,user
+1269,What's the forecast for today?,weather_query,user
+1270,What is the weather like today?,weather_query,user
+1271,What is the weather like today?,weather_query,user
+1272,How is the weather today?,weather_query,user
+1273,Will it rain tomorrow?,weather_query,user
+1274,What's the forecast for today?,weather_query,user
+1275,Will it rain tomorrow?,weather_query,user
+1276,Will the weather be good today?,weather_query,user
+1277,Will it rain tomorrow?,weather_query,user
+1278,What is the weather like today?,weather_query,user
+1279,What's the forecast for today?,weather_query,user
+1280,How is the weather today?,weather_query,user
+1281,Will it rain tomorrow?,weather_query,user
+1282,What's the forecast for today?,weather_query,user
+1283,How is the weather today?,weather_query,user
+1284,Will it rain tomorrow?,weather_query,user
+1285,Will the weather be good today?,weather_query,user
+1286,What's the forecast for today?,weather_query,user
+1287,What is the weather like today?,weather_query,user
+1288,Will it rain tomorrow?,weather_query,user
+1289,What is the weather like today?,weather_query,user
+1290,What is the weather like today?,weather_query,user
+1291,Will it rain tomorrow?,weather_query,user
+1292,What's the forecast for today?,weather_query,user
+1293,What is the weather like today?,weather_query,user
+1294,What's the forecast for today?,weather_query,user
+1295,How is the weather today?,weather_query,user
+1296,How is the weather today?,weather_query,user
+1297,Will it rain tomorrow?,weather_query,user
+1298,What's the forecast for today?,weather_query,user
+1299,What is the weather like today?,weather_query,user
+1300,What's the forecast for today?,weather_query,user
+1301,What is the weather like today?,weather_query,user
+1302,How is the weather today?,weather_query,user
+1303,Will the weather be good today?,weather_query,user
+1304,How is the weather today?,weather_query,user
+1305,Will the weather be good today?,weather_query,user
+1306,What's the forecast for today?,weather_query,user
+1307,How is the weather today?,weather_query,user
+1308,What is the weather like today?,weather_query,user
+1309,What's the forecast for today?,weather_query,user
+1310,Will it rain tomorrow?,weather_query,user
+1311,What is the weather like today?,weather_query,user
+1312,Will it rain tomorrow?,weather_query,user
+1313,Will the weather be good today?,weather_query,user
+1314,What is the weather like today?,weather_query,user
+1315,Will it rain tomorrow?,weather_query,user
+1316,What is the weather like today?,weather_query,user
+1317,Will it rain tomorrow?,weather_query,user
+1318,What is the weather like today?,weather_query,user
+1319,How is the weather today?,weather_query,user
+1320,What is the weather like today?,weather_query,user
+1321,Will it rain tomorrow?,weather_query,user
+1322,What is the weather like today?,weather_query,user
+1323,What's the forecast for today?,weather_query,user
+1324,How is the weather today?,weather_query,user
+1325,What is the weather like today?,weather_query,user
+1326,What is the weather like today?,weather_query,user
+1327,What is the weather like today?,weather_query,user
+1328,What's the forecast for today?,weather_query,user
+1329,Will it rain tomorrow?,weather_query,user
+1330,What's the forecast for today?,weather_query,user
+1331,Will it rain tomorrow?,weather_query,user
+1332,How is the weather today?,weather_query,user
+1333,What is the weather like today?,weather_query,user
+1334,What is the weather like today?,weather_query,user
+1335,What's the forecast for today?,weather_query,user
+1336,What is the weather like today?,weather_query,user
+1337,Will it rain tomorrow?,weather_query,user
+1338,Will it rain tomorrow?,weather_query,user
+1339,What is the weather like today?,weather_query,user
+1340,What is the weather like today?,weather_query,user
+1341,Will the weather be good today?,weather_query,user
+1342,What's the forecast for today?,weather_query,user
+1343,What is the weather like today?,weather_query,user
+1344,What's the forecast for today?,weather_query,user
+1345,Will it rain tomorrow?,weather_query,user
+1346,How is the weather today?,weather_query,user
+1347,What's the forecast for today?,weather_query,user
+1348,How is the weather today?,weather_query,user
+1349,What's the forecast for today?,weather_query,user
+1350,Will the weather be good today?,weather_query,user
+1351,What's the forecast for today?,weather_query,user
+1352,What is the weather like today?,weather_query,user
+1353,What is the weather like today?,weather_query,user
+1354,What is the weather like today?,weather_query,user
+1355,Will the weather be good today?,weather_query,user
+1356,What's the forecast for today?,weather_query,user
+1357,Will the weather be good today?,weather_query,user
+1358,Will it rain tomorrow?,weather_query,user
+1359,Will the weather be good today?,weather_query,user
+1360,How is the weather today?,weather_query,user
+1361,How is the weather today?,weather_query,user
+1362,What is the weather like today?,weather_query,user
+1363,How is the weather today?,weather_query,user
+1364,What's the forecast for today?,weather_query,user
+1365,Will it rain tomorrow?,weather_query,user
+1366,What is the weather like today?,weather_query,user
+1367,Will the weather be good today?,weather_query,user
+1368,What's the forecast for today?,weather_query,user
+1369,How is the weather today?,weather_query,user
+1370,How is the weather today?,weather_query,user
+1371,Will the weather be good today?,weather_query,user
+1372,Will it rain tomorrow?,weather_query,user
+1373,Will it rain tomorrow?,weather_query,user
+1374,Will the weather be good today?,weather_query,user
+1375,What is the weather like today?,weather_query,user
+1376,What is the weather like today?,weather_query,user
+1377,Will it rain tomorrow?,weather_query,user
+1378,Will the weather be good today?,weather_query,user
+1379,Will the weather be good today?,weather_query,user
+1380,Will it rain tomorrow?,weather_query,user
+1381,Will it rain tomorrow?,weather_query,user
+1382,How is the weather today?,weather_query,user
+1383,How is the weather today?,weather_query,user
+1384,Will it rain tomorrow?,weather_query,user
+1385,Will the weather be good today?,weather_query,user
+1386,Will the weather be good today?,weather_query,user
+1387,What's the forecast for today?,weather_query,user
+1388,What's the forecast for today?,weather_query,user
+1389,Will it rain tomorrow?,weather_query,user
+1390,Will it rain tomorrow?,weather_query,user
+1391,How is the weather today?,weather_query,user
+1392,Will the weather be good today?,weather_query,user
+1393,Will it rain tomorrow?,weather_query,user
+1394,Will the weather be good today?,weather_query,user
+1395,What is the weather like today?,weather_query,user
+1396,What is the weather like today?,weather_query,user
+1397,Will the weather be good today?,weather_query,user
+1398,What is the weather like today?,weather_query,user
+1399,Will the weather be good today?,weather_query,user
+1400,What is the weather like today?,weather_query,user
+1401,What's the forecast for today?,weather_query,user
+1402,What is the weather like today?,weather_query,user
+1403,Will it rain tomorrow?,weather_query,user
+1404,What's the forecast for today?,weather_query,user
+1405,What is the weather like today?,weather_query,user
+1406,Will the weather be good today?,weather_query,user
+1407,What is the weather like today?,weather_query,user
+1408,Will the weather be good today?,weather_query,user
+1409,What's the forecast for today?,weather_query,user
+1410,What's the forecast for today?,weather_query,user
+1411,What is the weather like today?,weather_query,user
+1412,Will it rain tomorrow?,weather_query,user
+1413,What's the forecast for today?,weather_query,user
+1414,How is the weather today?,weather_query,user
+1415,Will the weather be good today?,weather_query,user
+1416,How is the weather today?,weather_query,user
+1417,What is the weather like today?,weather_query,user
+1418,What is the weather like today?,weather_query,user
+1419,What is the weather like today?,weather_query,user
+1420,What is the weather like today?,weather_query,user
+1421,Will it rain tomorrow?,weather_query,user
+1422,What is the weather like today?,weather_query,user
+1423,What is the weather like today?,weather_query,user
+1424,What's the forecast for today?,weather_query,user
+1425,What's the forecast for today?,weather_query,user
+1426,Will it rain tomorrow?,weather_query,user
+1427,How is the weather today?,weather_query,user
+1428,What is the weather like today?,weather_query,user
+1429,Will the weather be good today?,weather_query,user
+1430,Will it rain tomorrow?,weather_query,user
+1431,What is the weather like today?,weather_query,user
+1432,Will it rain tomorrow?,weather_query,user
+1433,What is the weather like today?,weather_query,user
+1434,How is the weather today?,weather_query,user
+1435,What is the weather like today?,weather_query,user
+1436,What's the forecast for today?,weather_query,user
+1437,Will the weather be good today?,weather_query,user
+1438,What's the forecast for today?,weather_query,user
+1439,How is the weather today?,weather_query,user
+1440,What's the forecast for today?,weather_query,user
+1441,Will it rain tomorrow?,weather_query,user
+1442,How is the weather today?,weather_query,user
+1443,Will it rain tomorrow?,weather_query,user
+1444,Will it rain tomorrow?,weather_query,user
+1445,How is the weather today?,weather_query,user
+1446,What is the weather like today?,weather_query,user
+1447,Will the weather be good today?,weather_query,user
+1448,What is the weather like today?,weather_query,user
+1449,What is the weather like today?,weather_query,user
+1450,How is the weather today?,weather_query,user
+1451,What is the weather like today?,weather_query,user
+1452,How is the weather today?,weather_query,user
+1453,How is the weather today?,weather_query,user
+1454,How is the weather today?,weather_query,user
+1455,Will it rain tomorrow?,weather_query,user
+1456,Will the weather be good today?,weather_query,user
+1457,Will the weather be good today?,weather_query,user
+1458,Will the weather be good today?,weather_query,user
+1459,Will the weather be good today?,weather_query,user
+1460,Will the weather be good today?,weather_query,user
+1461,What is the weather like today?,weather_query,user
+1462,What's the forecast for today?,weather_query,user
+1463,Will it rain tomorrow?,weather_query,user
+1464,How is the weather today?,weather_query,user
+1465,What's the forecast for today?,weather_query,user
+1466,How is the weather today?,weather_query,user
+1467,How is the weather today?,weather_query,user
+1468,What's the forecast for today?,weather_query,user
+1469,How is the weather today?,weather_query,user
+1470,Will it rain tomorrow?,weather_query,user
+1471,What's the forecast for today?,weather_query,user
+1472,How is the weather today?,weather_query,user
+1473,What is the weather like today?,weather_query,user
+1474,What is the weather like today?,weather_query,user
+1475,What is the weather like today?,weather_query,user
+1476,Will it rain tomorrow?,weather_query,user
+1477,Will it rain tomorrow?,weather_query,user
+1478,Will the weather be good today?,weather_query,user
+1479,What is the weather like today?,weather_query,user
+1480,What is the weather like today?,weather_query,user
+1481,What's the forecast for today?,weather_query,user
+1482,Will it rain tomorrow?,weather_query,user
+1483,Will the weather be good today?,weather_query,user
+1484,How is the weather today?,weather_query,user
+1485,What's the forecast for today?,weather_query,user
+1486,Will the weather be good today?,weather_query,user
+1487,How is the weather today?,weather_query,user
+1488,Will it rain tomorrow?,weather_query,user
+1489,What is the weather like today?,weather_query,user
+1490,How is the weather today?,weather_query,user
+1491,How is the weather today?,weather_query,user
+1492,Will it rain tomorrow?,weather_query,user
+1493,What is the weather like today?,weather_query,user
+1494,What is the weather like today?,weather_query,user
+1495,Will the weather be good today?,weather_query,user
+1496,Will it rain tomorrow?,weather_query,user
+1497,What's the forecast for today?,weather_query,user
+1498,How is the weather today?,weather_query,user
+1499,Will the weather be good today?,weather_query,user
+1500,Will the weather be good today?,weather_query,user
+1501,Show me Tesla stock price,stock_query,user
+1502,Show me Tesla stock price,stock_query,user
+1503,Tell me the stock value of Amazon,stock_query,user
+1504,Tell me the stock value of Amazon,stock_query,user
+1505,Show me Tesla stock price,stock_query,user
+1506,Tell me the stock value of Amazon,stock_query,user
+1507,Tell me the stock value of Amazon,stock_query,user
+1508,What is the current share price of MSFT?,stock_query,user
+1509,Show me Tesla stock price,stock_query,user
+1510,What is the current share price of MSFT?,stock_query,user
+1511,What is the current share price of MSFT?,stock_query,user
+1512,Tell me the stock value of Amazon,stock_query,user
+1513,What is Google's stock price?,stock_query,user
+1514,What is Google's stock price?,stock_query,user
+1515,Show me Tesla stock price,stock_query,user
+1516,Show me Tesla stock price,stock_query,user
+1517,Tell me the stock value of Amazon,stock_query,user
+1518,Tell me the stock value of Amazon,stock_query,user
+1519,Give me the stock price of AAPL,stock_query,user
+1520,What is Google's stock price?,stock_query,user
+1521,Tell me the stock value of Amazon,stock_query,user
+1522,Show me Tesla stock price,stock_query,user
+1523,Tell me the stock value of Amazon,stock_query,user
+1524,What is Google's stock price?,stock_query,user
+1525,Show me Tesla stock price,stock_query,user
+1526,Show me Tesla stock price,stock_query,user
+1527,Tell me the stock value of Amazon,stock_query,user
+1528,Give me the stock price of AAPL,stock_query,user
+1529,Show me Tesla stock price,stock_query,user
+1530,What is Google's stock price?,stock_query,user
+1531,Give me the stock price of AAPL,stock_query,user
+1532,What is the current share price of MSFT?,stock_query,user
+1533,What is the current share price of MSFT?,stock_query,user
+1534,Show me Tesla stock price,stock_query,user
+1535,Give me the stock price of AAPL,stock_query,user
+1536,Show me Tesla stock price,stock_query,user
+1537,Tell me the stock value of Amazon,stock_query,user
+1538,Show me Tesla stock price,stock_query,user
+1539,Show me Tesla stock price,stock_query,user
+1540,Tell me the stock value of Amazon,stock_query,user
+1541,What is the current share price of MSFT?,stock_query,user
+1542,Give me the stock price of AAPL,stock_query,user
+1543,Give me the stock price of AAPL,stock_query,user
+1544,Tell me the stock value of Amazon,stock_query,user
+1545,What is Google's stock price?,stock_query,user
+1546,Tell me the stock value of Amazon,stock_query,user
+1547,What is the current share price of MSFT?,stock_query,user
+1548,Tell me the stock value of Amazon,stock_query,user
+1549,What is Google's stock price?,stock_query,user
+1550,What is the current share price of MSFT?,stock_query,user
+1551,Show me Tesla stock price,stock_query,user
+1552,What is the current share price of MSFT?,stock_query,user
+1553,Give me the stock price of AAPL,stock_query,user
+1554,Give me the stock price of AAPL,stock_query,user
+1555,Tell me the stock value of Amazon,stock_query,user
+1556,Tell me the stock value of Amazon,stock_query,user
+1557,Tell me the stock value of Amazon,stock_query,user
+1558,Give me the stock price of AAPL,stock_query,user
+1559,Give me the stock price of AAPL,stock_query,user
+1560,What is the current share price of MSFT?,stock_query,user
+1561,What is the current share price of MSFT?,stock_query,user
+1562,What is the current share price of MSFT?,stock_query,user
+1563,Show me Tesla stock price,stock_query,user
+1564,What is Google's stock price?,stock_query,user
+1565,Give me the stock price of AAPL,stock_query,user
+1566,Give me the stock price of AAPL,stock_query,user
+1567,What is Google's stock price?,stock_query,user
+1568,What is Google's stock price?,stock_query,user
+1569,Show me Tesla stock price,stock_query,user
+1570,Give me the stock price of AAPL,stock_query,user
+1571,Tell me the stock value of Amazon,stock_query,user
+1572,What is Google's stock price?,stock_query,user
+1573,Show me Tesla stock price,stock_query,user
+1574,Give me the stock price of AAPL,stock_query,user
+1575,What is Google's stock price?,stock_query,user
+1576,What is Google's stock price?,stock_query,user
+1577,What is Google's stock price?,stock_query,user
+1578,What is the current share price of MSFT?,stock_query,user
+1579,Give me the stock price of AAPL,stock_query,user
+1580,Tell me the stock value of Amazon,stock_query,user
+1581,Tell me the stock value of Amazon,stock_query,user
+1582,Give me the stock price of AAPL,stock_query,user
+1583,Give me the stock price of AAPL,stock_query,user
+1584,Tell me the stock value of Amazon,stock_query,user
+1585,Tell me the stock value of Amazon,stock_query,user
+1586,What is Google's stock price?,stock_query,user
+1587,Tell me the stock value of Amazon,stock_query,user
+1588,Show me Tesla stock price,stock_query,user
+1589,Give me the stock price of AAPL,stock_query,user
+1590,What is the current share price of MSFT?,stock_query,user
+1591,What is Google's stock price?,stock_query,user
+1592,What is Google's stock price?,stock_query,user
+1593,Show me Tesla stock price,stock_query,user
+1594,Tell me the stock value of Amazon,stock_query,user
+1595,What is the current share price of MSFT?,stock_query,user
+1596,Tell me the stock value of Amazon,stock_query,user
+1597,What is the current share price of MSFT?,stock_query,user
+1598,Show me Tesla stock price,stock_query,user
+1599,What is the current share price of MSFT?,stock_query,user
+1600,What is Google's stock price?,stock_query,user
+1601,What is Google's stock price?,stock_query,user
+1602,What is Google's stock price?,stock_query,user
+1603,Tell me the stock value of Amazon,stock_query,user
+1604,Show me Tesla stock price,stock_query,user
+1605,Tell me the stock value of Amazon,stock_query,user
+1606,Show me Tesla stock price,stock_query,user
+1607,Give me the stock price of AAPL,stock_query,user
+1608,Show me Tesla stock price,stock_query,user
+1609,Show me Tesla stock price,stock_query,user
+1610,Give me the stock price of AAPL,stock_query,user
+1611,Tell me the stock value of Amazon,stock_query,user
+1612,Show me Tesla stock price,stock_query,user
+1613,Give me the stock price of AAPL,stock_query,user
+1614,What is the current share price of MSFT?,stock_query,user
+1615,Show me Tesla stock price,stock_query,user
+1616,Give me the stock price of AAPL,stock_query,user
+1617,What is the current share price of MSFT?,stock_query,user
+1618,What is Google's stock price?,stock_query,user
+1619,Give me the stock price of AAPL,stock_query,user
+1620,Tell me the stock value of Amazon,stock_query,user
+1621,Tell me the stock value of Amazon,stock_query,user
+1622,What is the current share price of MSFT?,stock_query,user
+1623,What is the current share price of MSFT?,stock_query,user
+1624,What is the current share price of MSFT?,stock_query,user
+1625,What is Google's stock price?,stock_query,user
+1626,What is Google's stock price?,stock_query,user
+1627,What is Google's stock price?,stock_query,user
+1628,Give me the stock price of AAPL,stock_query,user
+1629,Give me the stock price of AAPL,stock_query,user
+1630,Give me the stock price of AAPL,stock_query,user
+1631,What is Google's stock price?,stock_query,user
+1632,Show me Tesla stock price,stock_query,user
+1633,Tell me the stock value of Amazon,stock_query,user
+1634,Tell me the stock value of Amazon,stock_query,user
+1635,What is Google's stock price?,stock_query,user
+1636,Show me Tesla stock price,stock_query,user
+1637,What is the current share price of MSFT?,stock_query,user
+1638,Show me Tesla stock price,stock_query,user
+1639,Give me the stock price of AAPL,stock_query,user
+1640,What is Google's stock price?,stock_query,user
+1641,Tell me the stock value of Amazon,stock_query,user
+1642,What is Google's stock price?,stock_query,user
+1643,Tell me the stock value of Amazon,stock_query,user
+1644,Show me Tesla stock price,stock_query,user
+1645,Show me Tesla stock price,stock_query,user
+1646,Tell me the stock value of Amazon,stock_query,user
+1647,Tell me the stock value of Amazon,stock_query,user
+1648,What is the current share price of MSFT?,stock_query,user
+1649,What is Google's stock price?,stock_query,user
+1650,Show me Tesla stock price,stock_query,user
+1651,Tell me the stock value of Amazon,stock_query,user
+1652,Tell me the stock value of Amazon,stock_query,user
+1653,Give me the stock price of AAPL,stock_query,user
+1654,Show me Tesla stock price,stock_query,user
+1655,What is the current share price of MSFT?,stock_query,user
+1656,Show me Tesla stock price,stock_query,user
+1657,Tell me the stock value of Amazon,stock_query,user
+1658,Show me Tesla stock price,stock_query,user
+1659,What is Google's stock price?,stock_query,user
+1660,Tell me the stock value of Amazon,stock_query,user
+1661,What is Google's stock price?,stock_query,user
+1662,Tell me the stock value of Amazon,stock_query,user
+1663,Give me the stock price of AAPL,stock_query,user
+1664,Show me Tesla stock price,stock_query,user
+1665,What is Google's stock price?,stock_query,user
+1666,Tell me the stock value of Amazon,stock_query,user
+1667,Show me Tesla stock price,stock_query,user
+1668,Tell me the stock value of Amazon,stock_query,user
+1669,What is the current share price of MSFT?,stock_query,user
+1670,Give me the stock price of AAPL,stock_query,user
+1671,Tell me the stock value of Amazon,stock_query,user
+1672,What is Google's stock price?,stock_query,user
+1673,Show me Tesla stock price,stock_query,user
+1674,Tell me the stock value of Amazon,stock_query,user
+1675,What is the current share price of MSFT?,stock_query,user
+1676,What is Google's stock price?,stock_query,user
+1677,Show me Tesla stock price,stock_query,user
+1678,What is Google's stock price?,stock_query,user
+1679,What is Google's stock price?,stock_query,user
+1680,What is Google's stock price?,stock_query,user
+1681,What is Google's stock price?,stock_query,user
+1682,What is the current share price of MSFT?,stock_query,user
+1683,What is Google's stock price?,stock_query,user
+1684,Tell me the stock value of Amazon,stock_query,user
+1685,What is the current share price of MSFT?,stock_query,user
+1686,Show me Tesla stock price,stock_query,user
+1687,Show me Tesla stock price,stock_query,user
+1688,Give me the stock price of AAPL,stock_query,user
+1689,What is the current share price of MSFT?,stock_query,user
+1690,What is the current share price of MSFT?,stock_query,user
+1691,Give me the stock price of AAPL,stock_query,user
+1692,Tell me the stock value of Amazon,stock_query,user
+1693,Show me Tesla stock price,stock_query,user
+1694,What is the current share price of MSFT?,stock_query,user
+1695,What is Google's stock price?,stock_query,user
+1696,Give me the stock price of AAPL,stock_query,user
+1697,Show me Tesla stock price,stock_query,user
+1698,Show me Tesla stock price,stock_query,user
+1699,What is Google's stock price?,stock_query,user
+1700,What is the current share price of MSFT?,stock_query,user
+1701,What is Google's stock price?,stock_query,user
+1702,What is the current share price of MSFT?,stock_query,user
+1703,Give me the stock price of AAPL,stock_query,user
+1704,Tell me the stock value of Amazon,stock_query,user
+1705,Show me Tesla stock price,stock_query,user
+1706,What is the current share price of MSFT?,stock_query,user
+1707,Show me Tesla stock price,stock_query,user
+1708,What is the current share price of MSFT?,stock_query,user
+1709,Show me Tesla stock price,stock_query,user
+1710,Show me Tesla stock price,stock_query,user
+1711,What is the current share price of MSFT?,stock_query,user
+1712,Tell me the stock value of Amazon,stock_query,user
+1713,What is Google's stock price?,stock_query,user
+1714,Tell me the stock value of Amazon,stock_query,user
+1715,Give me the stock price of AAPL,stock_query,user
+1716,Tell me the stock value of Amazon,stock_query,user
+1717,Show me Tesla stock price,stock_query,user
+1718,What is the current share price of MSFT?,stock_query,user
+1719,Give me the stock price of AAPL,stock_query,user
+1720,What is the current share price of MSFT?,stock_query,user
+1721,Tell me the stock value of Amazon,stock_query,user
+1722,What is Google's stock price?,stock_query,user
+1723,What is Google's stock price?,stock_query,user
+1724,Tell me the stock value of Amazon,stock_query,user
+1725,What is the current share price of MSFT?,stock_query,user
+1726,Show me Tesla stock price,stock_query,user
+1727,Show me Tesla stock price,stock_query,user
+1728,Give me the stock price of AAPL,stock_query,user
+1729,What is Google's stock price?,stock_query,user
+1730,What is the current share price of MSFT?,stock_query,user
+1731,Show me Tesla stock price,stock_query,user
+1732,Tell me the stock value of Amazon,stock_query,user
+1733,Show me Tesla stock price,stock_query,user
+1734,Show me Tesla stock price,stock_query,user
+1735,What is the current share price of MSFT?,stock_query,user
+1736,Show me Tesla stock price,stock_query,user
+1737,What is Google's stock price?,stock_query,user
+1738,Tell me the stock value of Amazon,stock_query,user
+1739,Tell me the stock value of Amazon,stock_query,user
+1740,What is the current share price of MSFT?,stock_query,user
+1741,Tell me the stock value of Amazon,stock_query,user
+1742,What is Google's stock price?,stock_query,user
+1743,Tell me the stock value of Amazon,stock_query,user
+1744,Give me the stock price of AAPL,stock_query,user
+1745,Tell me the stock value of Amazon,stock_query,user
+1746,Give me the stock price of AAPL,stock_query,user
+1747,What is Google's stock price?,stock_query,user
+1748,Give me the stock price of AAPL,stock_query,user
+1749,Show me Tesla stock price,stock_query,user
+1750,What is Google's stock price?,stock_query,user
+1751,What is the current share price of MSFT?,stock_query,user
+1752,What is the current share price of MSFT?,stock_query,user
+1753,Tell me the stock value of Amazon,stock_query,user
+1754,What is the current share price of MSFT?,stock_query,user
+1755,What is Google's stock price?,stock_query,user
+1756,What is Google's stock price?,stock_query,user
+1757,Show me Tesla stock price,stock_query,user
+1758,What is the current share price of MSFT?,stock_query,user
+1759,Give me the stock price of AAPL,stock_query,user
+1760,What is Google's stock price?,stock_query,user
+1761,Show me Tesla stock price,stock_query,user
+1762,What is Google's stock price?,stock_query,user
+1763,Show me Tesla stock price,stock_query,user
+1764,Give me the stock price of AAPL,stock_query,user
+1765,Show me Tesla stock price,stock_query,user
+1766,Show me Tesla stock price,stock_query,user
+1767,Show me Tesla stock price,stock_query,user
+1768,Tell me the stock value of Amazon,stock_query,user
+1769,Show me Tesla stock price,stock_query,user
+1770,Tell me the stock value of Amazon,stock_query,user
+1771,Tell me the stock value of Amazon,stock_query,user
+1772,Give me the stock price of AAPL,stock_query,user
+1773,What is the current share price of MSFT?,stock_query,user
+1774,Give me the stock price of AAPL,stock_query,user
+1775,Show me Tesla stock price,stock_query,user
+1776,Tell me the stock value of Amazon,stock_query,user
+1777,Tell me the stock value of Amazon,stock_query,user
+1778,Tell me the stock value of Amazon,stock_query,user
+1779,Tell me the stock value of Amazon,stock_query,user
+1780,What is Google's stock price?,stock_query,user
+1781,Give me the stock price of AAPL,stock_query,user
+1782,Give me the stock price of AAPL,stock_query,user
+1783,Tell me the stock value of Amazon,stock_query,user
+1784,Show me Tesla stock price,stock_query,user
+1785,Show me Tesla stock price,stock_query,user
+1786,Tell me the stock value of Amazon,stock_query,user
+1787,Show me Tesla stock price,stock_query,user
+1788,What is the current share price of MSFT?,stock_query,user
+1789,What is the current share price of MSFT?,stock_query,user
+1790,Tell me the stock value of Amazon,stock_query,user
+1791,What is the current share price of MSFT?,stock_query,user
+1792,Show me Tesla stock price,stock_query,user
+1793,What is the current share price of MSFT?,stock_query,user
+1794,Show me Tesla stock price,stock_query,user
+1795,Give me the stock price of AAPL,stock_query,user
+1796,What is Google's stock price?,stock_query,user
+1797,Tell me the stock value of Amazon,stock_query,user
+1798,Give me the stock price of AAPL,stock_query,user
+1799,What is the current share price of MSFT?,stock_query,user
+1800,What is Google's stock price?,stock_query,user
+1801,Show me Tesla stock price,stock_query,user
+1802,Tell me the stock value of Amazon,stock_query,user
+1803,What is the current share price of MSFT?,stock_query,user
+1804,What is Google's stock price?,stock_query,user
+1805,Tell me the stock value of Amazon,stock_query,user
+1806,Show me Tesla stock price,stock_query,user
+1807,Tell me the stock value of Amazon,stock_query,user
+1808,Give me the stock price of AAPL,stock_query,user
+1809,Give me the stock price of AAPL,stock_query,user
+1810,Tell me the stock value of Amazon,stock_query,user
+1811,What is Google's stock price?,stock_query,user
+1812,Give me the stock price of AAPL,stock_query,user
+1813,Show me Tesla stock price,stock_query,user
+1814,What is the current share price of MSFT?,stock_query,user
+1815,Show me Tesla stock price,stock_query,user
+1816,What is Google's stock price?,stock_query,user
+1817,What is the current share price of MSFT?,stock_query,user
+1818,Give me the stock price of AAPL,stock_query,user
+1819,What is the current share price of MSFT?,stock_query,user
+1820,What is the current share price of MSFT?,stock_query,user
+1821,Give me the stock price of AAPL,stock_query,user
+1822,Show me Tesla stock price,stock_query,user
+1823,Show me Tesla stock price,stock_query,user
+1824,Give me the stock price of AAPL,stock_query,user
+1825,Give me the stock price of AAPL,stock_query,user
+1826,Tell me the stock value of Amazon,stock_query,user
+1827,What is Google's stock price?,stock_query,user
+1828,Tell me the stock value of Amazon,stock_query,user
+1829,Give me the stock price of AAPL,stock_query,user
+1830,Give me the stock price of AAPL,stock_query,user
+1831,What is the current share price of MSFT?,stock_query,user
+1832,What is Google's stock price?,stock_query,user
+1833,What is the current share price of MSFT?,stock_query,user
+1834,What is Google's stock price?,stock_query,user
+1835,Tell me the stock value of Amazon,stock_query,user
+1836,What is the current share price of MSFT?,stock_query,user
+1837,Tell me the stock value of Amazon,stock_query,user
+1838,Tell me the stock value of Amazon,stock_query,user
+1839,What is Google's stock price?,stock_query,user
+1840,Tell me the stock value of Amazon,stock_query,user
+1841,Show me Tesla stock price,stock_query,user
+1842,What is the current share price of MSFT?,stock_query,user
+1843,What is Google's stock price?,stock_query,user
+1844,What is Google's stock price?,stock_query,user
+1845,Show me Tesla stock price,stock_query,user
+1846,Tell me the stock value of Amazon,stock_query,user
+1847,Show me Tesla stock price,stock_query,user
+1848,Give me the stock price of AAPL,stock_query,user
+1849,Tell me the stock value of Amazon,stock_query,user
+1850,What is the current share price of MSFT?,stock_query,user
+1851,Give me the stock price of AAPL,stock_query,user
+1852,What is the current share price of MSFT?,stock_query,user
+1853,What is the current share price of MSFT?,stock_query,user
+1854,Tell me the stock value of Amazon,stock_query,user
+1855,What is the current share price of MSFT?,stock_query,user
+1856,What is the current share price of MSFT?,stock_query,user
+1857,Give me the stock price of AAPL,stock_query,user
+1858,Give me the stock price of AAPL,stock_query,user
+1859,What is the current share price of MSFT?,stock_query,user
+1860,Give me the stock price of AAPL,stock_query,user
+1861,What is the current share price of MSFT?,stock_query,user
+1862,Tell me the stock value of Amazon,stock_query,user
+1863,What is the current share price of MSFT?,stock_query,user
+1864,What is the current share price of MSFT?,stock_query,user
+1865,What is Google's stock price?,stock_query,user
+1866,Tell me the stock value of Amazon,stock_query,user
+1867,Give me the stock price of AAPL,stock_query,user
+1868,What is the current share price of MSFT?,stock_query,user
+1869,Tell me the stock value of Amazon,stock_query,user
+1870,Tell me the stock value of Amazon,stock_query,user
+1871,Show me Tesla stock price,stock_query,user
+1872,Tell me the stock value of Amazon,stock_query,user
+1873,What is the current share price of MSFT?,stock_query,user
+1874,Tell me the stock value of Amazon,stock_query,user
+1875,What is Google's stock price?,stock_query,user
+1876,What is Google's stock price?,stock_query,user
+1877,Give me the stock price of AAPL,stock_query,user
+1878,Show me Tesla stock price,stock_query,user
+1879,Show me Tesla stock price,stock_query,user
+1880,What is Google's stock price?,stock_query,user
+1881,What is Google's stock price?,stock_query,user
+1882,Give me the stock price of AAPL,stock_query,user
+1883,Show me Tesla stock price,stock_query,user
+1884,What is the current share price of MSFT?,stock_query,user
+1885,Tell me the stock value of Amazon,stock_query,user
+1886,Show me Tesla stock price,stock_query,user
+1887,What is Google's stock price?,stock_query,user
+1888,Tell me the stock value of Amazon,stock_query,user
+1889,What is the current share price of MSFT?,stock_query,user
+1890,Tell me the stock value of Amazon,stock_query,user
+1891,What is the current share price of MSFT?,stock_query,user
+1892,What is the current share price of MSFT?,stock_query,user
+1893,Tell me the stock value of Amazon,stock_query,user
+1894,What is Google's stock price?,stock_query,user
+1895,What is the current share price of MSFT?,stock_query,user
+1896,What is Google's stock price?,stock_query,user
+1897,What is the current share price of MSFT?,stock_query,user
+1898,What is the current share price of MSFT?,stock_query,user
+1899,Tell me the stock value of Amazon,stock_query,user
+1900,Tell me the stock value of Amazon,stock_query,user
+1901,Give me the stock price of AAPL,stock_query,user
+1902,Tell me the stock value of Amazon,stock_query,user
+1903,What is Google's stock price?,stock_query,user
+1904,What is Google's stock price?,stock_query,user
+1905,What is the current share price of MSFT?,stock_query,user
+1906,What is Google's stock price?,stock_query,user
+1907,Tell me the stock value of Amazon,stock_query,user
+1908,What is the current share price of MSFT?,stock_query,user
+1909,What is Google's stock price?,stock_query,user
+1910,What is Google's stock price?,stock_query,user
+1911,What is the current share price of MSFT?,stock_query,user
+1912,Tell me the stock value of Amazon,stock_query,user
+1913,What is the current share price of MSFT?,stock_query,user
+1914,What is the current share price of MSFT?,stock_query,user
+1915,What is Google's stock price?,stock_query,user
+1916,Show me Tesla stock price,stock_query,user
+1917,What is the current share price of MSFT?,stock_query,user
+1918,What is the current share price of MSFT?,stock_query,user
+1919,Tell me the stock value of Amazon,stock_query,user
+1920,Give me the stock price of AAPL,stock_query,user
+1921,What is Google's stock price?,stock_query,user
+1922,What is the current share price of MSFT?,stock_query,user
+1923,Show me Tesla stock price,stock_query,user
+1924,What is the current share price of MSFT?,stock_query,user
+1925,Give me the stock price of AAPL,stock_query,user
+1926,Show me Tesla stock price,stock_query,user
+1927,Show me Tesla stock price,stock_query,user
+1928,What is Google's stock price?,stock_query,user
+1929,Tell me the stock value of Amazon,stock_query,user
+1930,What is the current share price of MSFT?,stock_query,user
+1931,What is the current share price of MSFT?,stock_query,user
+1932,What is the current share price of MSFT?,stock_query,user
+1933,Show me Tesla stock price,stock_query,user
+1934,What is the current share price of MSFT?,stock_query,user
+1935,Give me the stock price of AAPL,stock_query,user
+1936,Show me Tesla stock price,stock_query,user
+1937,What is the current share price of MSFT?,stock_query,user
+1938,Show me Tesla stock price,stock_query,user
+1939,Give me the stock price of AAPL,stock_query,user
+1940,What is the current share price of MSFT?,stock_query,user
+1941,Give me the stock price of AAPL,stock_query,user
+1942,Give me the stock price of AAPL,stock_query,user
+1943,Show me Tesla stock price,stock_query,user
+1944,What is Google's stock price?,stock_query,user
+1945,Show me Tesla stock price,stock_query,user
+1946,Show me Tesla stock price,stock_query,user
+1947,Tell me the stock value of Amazon,stock_query,user
+1948,What is the current share price of MSFT?,stock_query,user
+1949,What is the current share price of MSFT?,stock_query,user
+1950,Show me Tesla stock price,stock_query,user
+1951,Give me the stock price of AAPL,stock_query,user
+1952,Show me Tesla stock price,stock_query,user
+1953,What is the current share price of MSFT?,stock_query,user
+1954,What is the current share price of MSFT?,stock_query,user
+1955,Give me the stock price of AAPL,stock_query,user
+1956,Tell me the stock value of Amazon,stock_query,user
+1957,What is Google's stock price?,stock_query,user
+1958,What is Google's stock price?,stock_query,user
+1959,Show me Tesla stock price,stock_query,user
+1960,Show me Tesla stock price,stock_query,user
+1961,Show me Tesla stock price,stock_query,user
+1962,Show me Tesla stock price,stock_query,user
+1963,Give me the stock price of AAPL,stock_query,user
+1964,What is Google's stock price?,stock_query,user
+1965,What is Google's stock price?,stock_query,user
+1966,Tell me the stock value of Amazon,stock_query,user
+1967,Give me the stock price of AAPL,stock_query,user
+1968,Give me the stock price of AAPL,stock_query,user
+1969,Tell me the stock value of Amazon,stock_query,user
+1970,Give me the stock price of AAPL,stock_query,user
+1971,Tell me the stock value of Amazon,stock_query,user
+1972,Show me Tesla stock price,stock_query,user
+1973,Give me the stock price of AAPL,stock_query,user
+1974,Show me Tesla stock price,stock_query,user
+1975,Show me Tesla stock price,stock_query,user
+1976,What is the current share price of MSFT?,stock_query,user
+1977,What is Google's stock price?,stock_query,user
+1978,Give me the stock price of AAPL,stock_query,user
+1979,What is the current share price of MSFT?,stock_query,user
+1980,Show me Tesla stock price,stock_query,user
+1981,Give me the stock price of AAPL,stock_query,user
+1982,Tell me the stock value of Amazon,stock_query,user
+1983,What is Google's stock price?,stock_query,user
+1984,Show me Tesla stock price,stock_query,user
+1985,What is the current share price of MSFT?,stock_query,user
+1986,Tell me the stock value of Amazon,stock_query,user
+1987,Give me the stock price of AAPL,stock_query,user
+1988,Tell me the stock value of Amazon,stock_query,user
+1989,Tell me the stock value of Amazon,stock_query,user
+1990,Show me Tesla stock price,stock_query,user
+1991,Give me the stock price of AAPL,stock_query,user
+1992,Give me the stock price of AAPL,stock_query,user
+1993,What is the current share price of MSFT?,stock_query,user
+1994,What is the current share price of MSFT?,stock_query,user
+1995,Give me the stock price of AAPL,stock_query,user
+1996,Show me Tesla stock price,stock_query,user
+1997,What is the current share price of MSFT?,stock_query,user
+1998,What is Google's stock price?,stock_query,user
+1999,Tell me the stock value of Amazon,stock_query,user
+2000,What is Google's stock price?,stock_query,user
+2001,Give me the stock price of AAPL,stock_query,user
+2002,What is the current share price of MSFT?,stock_query,user
+2003,Give me the stock price of AAPL,stock_query,user
+2004,Give me the stock price of AAPL,stock_query,user
+2005,What is the current share price of MSFT?,stock_query,user
+2006,Show me Tesla stock price,stock_query,user
+2007,Show me Tesla stock price,stock_query,user
+2008,What is the current share price of MSFT?,stock_query,user
+2009,Give me the stock price of AAPL,stock_query,user
+2010,Give me the stock price of AAPL,stock_query,user
+2011,Give me the stock price of AAPL,stock_query,user
+2012,Give me the stock price of AAPL,stock_query,user
+2013,Give me the stock price of AAPL,stock_query,user
+2014,Show me Tesla stock price,stock_query,user
+2015,Give me the stock price of AAPL,stock_query,user
+2016,Show me Tesla stock price,stock_query,user
+2017,Give me the stock price of AAPL,stock_query,user
+2018,What is the current share price of MSFT?,stock_query,user
+2019,What is the current share price of MSFT?,stock_query,user
+2020,Give me the stock price of AAPL,stock_query,user
+2021,Show me Tesla stock price,stock_query,user
+2022,Tell me the stock value of Amazon,stock_query,user
+2023,Tell me the stock value of Amazon,stock_query,user
+2024,Give me the stock price of AAPL,stock_query,user
+2025,Give me the stock price of AAPL,stock_query,user
+2026,Tell me the stock value of Amazon,stock_query,user
+2027,Show me Tesla stock price,stock_query,user
+2028,What is Google's stock price?,stock_query,user
+2029,Tell me the stock value of Amazon,stock_query,user
+2030,Give me the stock price of AAPL,stock_query,user
+2031,Give me the stock price of AAPL,stock_query,user
+2032,Tell me the stock value of Amazon,stock_query,user
+2033,What is the current share price of MSFT?,stock_query,user
+2034,Show me Tesla stock price,stock_query,user
+2035,Show me Tesla stock price,stock_query,user
+2036,What is Google's stock price?,stock_query,user
+2037,What is the current share price of MSFT?,stock_query,user
+2038,Show me Tesla stock price,stock_query,user
+2039,What is the current share price of MSFT?,stock_query,user
+2040,Give me the stock price of AAPL,stock_query,user
+2041,Tell me the stock value of Amazon,stock_query,user
+2042,What is the current share price of MSFT?,stock_query,user
+2043,What is Google's stock price?,stock_query,user
+2044,Show me Tesla stock price,stock_query,user
+2045,What is Google's stock price?,stock_query,user
+2046,What is the current share price of MSFT?,stock_query,user
+2047,What is the current share price of MSFT?,stock_query,user
+2048,What is the current share price of MSFT?,stock_query,user
+2049,Show me Tesla stock price,stock_query,user
+2050,What is the current share price of MSFT?,stock_query,user
+2051,Show me Tesla stock price,stock_query,user
+2052,Show me Tesla stock price,stock_query,user
+2053,What is Google's stock price?,stock_query,user
+2054,Show me Tesla stock price,stock_query,user
+2055,What is Google's stock price?,stock_query,user
+2056,What is the current share price of MSFT?,stock_query,user
+2057,Give me the stock price of AAPL,stock_query,user
+2058,Show me Tesla stock price,stock_query,user
+2059,What is Google's stock price?,stock_query,user
+2060,What is the current share price of MSFT?,stock_query,user
+2061,Give me the stock price of AAPL,stock_query,user
+2062,What is Google's stock price?,stock_query,user
+2063,What is the current share price of MSFT?,stock_query,user
+2064,What is the current share price of MSFT?,stock_query,user
+2065,Show me Tesla stock price,stock_query,user
+2066,Give me the stock price of AAPL,stock_query,user
+2067,Show me Tesla stock price,stock_query,user
+2068,Show me Tesla stock price,stock_query,user
+2069,Give me the stock price of AAPL,stock_query,user
+2070,Show me Tesla stock price,stock_query,user
+2071,What is Google's stock price?,stock_query,user
+2072,Show me Tesla stock price,stock_query,user
+2073,Tell me the stock value of Amazon,stock_query,user
+2074,Show me Tesla stock price,stock_query,user
+2075,What is the current share price of MSFT?,stock_query,user
+2076,What is the current share price of MSFT?,stock_query,user
+2077,Tell me the stock value of Amazon,stock_query,user
+2078,Tell me the stock value of Amazon,stock_query,user
+2079,Give me the stock price of AAPL,stock_query,user
+2080,What is Google's stock price?,stock_query,user
+2081,What is Google's stock price?,stock_query,user
+2082,Show me Tesla stock price,stock_query,user
+2083,Give me the stock price of AAPL,stock_query,user
+2084,Show me Tesla stock price,stock_query,user
+2085,Show me Tesla stock price,stock_query,user
+2086,Tell me the stock value of Amazon,stock_query,user
+2087,What is the current share price of MSFT?,stock_query,user
+2088,Tell me the stock value of Amazon,stock_query,user
+2089,Give me the stock price of AAPL,stock_query,user
+2090,Show me Tesla stock price,stock_query,user
+2091,Give me the stock price of AAPL,stock_query,user
+2092,What is Google's stock price?,stock_query,user
+2093,What is the current share price of MSFT?,stock_query,user
+2094,What is Google's stock price?,stock_query,user
+2095,What is the current share price of MSFT?,stock_query,user
+2096,What is the current share price of MSFT?,stock_query,user
+2097,Give me the stock price of AAPL,stock_query,user
+2098,What is the current share price of MSFT?,stock_query,user
+2099,What is the current share price of MSFT?,stock_query,user
+2100,What is the current share price of MSFT?,stock_query,user
+2101,What is the current share price of MSFT?,stock_query,user
+2102,Give me the stock price of AAPL,stock_query,user
+2103,What is the current share price of MSFT?,stock_query,user
+2104,What is the current share price of MSFT?,stock_query,user
+2105,What is the current share price of MSFT?,stock_query,user
+2106,What is the current share price of MSFT?,stock_query,user
+2107,Give me the stock price of AAPL,stock_query,user
+2108,What is Google's stock price?,stock_query,user
+2109,Give me the stock price of AAPL,stock_query,user
+2110,Show me Tesla stock price,stock_query,user
+2111,What is the current share price of MSFT?,stock_query,user
+2112,Tell me the stock value of Amazon,stock_query,user
+2113,Show me Tesla stock price,stock_query,user
+2114,Show me Tesla stock price,stock_query,user
+2115,What is Google's stock price?,stock_query,user
+2116,Give me the stock price of AAPL,stock_query,user
+2117,What is the current share price of MSFT?,stock_query,user
+2118,What is the current share price of MSFT?,stock_query,user
+2119,What is Google's stock price?,stock_query,user
+2120,Give me the stock price of AAPL,stock_query,user
+2121,What is the current share price of MSFT?,stock_query,user
+2122,Tell me the stock value of Amazon,stock_query,user
+2123,Show me Tesla stock price,stock_query,user
+2124,Show me Tesla stock price,stock_query,user
+2125,What is the current share price of MSFT?,stock_query,user
+2126,What is the current share price of MSFT?,stock_query,user
+2127,Tell me the stock value of Amazon,stock_query,user
+2128,What is Google's stock price?,stock_query,user
+2129,What is the current share price of MSFT?,stock_query,user
+2130,What is the current share price of MSFT?,stock_query,user
+2131,Tell me the stock value of Amazon,stock_query,user
+2132,What is Google's stock price?,stock_query,user
+2133,Tell me the stock value of Amazon,stock_query,user
+2134,What is the current share price of MSFT?,stock_query,user
+2135,What is Google's stock price?,stock_query,user
+2136,Tell me the stock value of Amazon,stock_query,user
+2137,What is Google's stock price?,stock_query,user
+2138,What is Google's stock price?,stock_query,user
+2139,Show me Tesla stock price,stock_query,user
+2140,What is the current share price of MSFT?,stock_query,user
+2141,What is Google's stock price?,stock_query,user
+2142,What is the current share price of MSFT?,stock_query,user
+2143,What is the current share price of MSFT?,stock_query,user
+2144,Give me the stock price of AAPL,stock_query,user
+2145,What is Google's stock price?,stock_query,user
+2146,Give me the stock price of AAPL,stock_query,user
+2147,What is the current share price of MSFT?,stock_query,user
+2148,What is Google's stock price?,stock_query,user
+2149,What is the current share price of MSFT?,stock_query,user
+2150,Tell me the stock value of Amazon,stock_query,user
+2151,Tell me the stock value of Amazon,stock_query,user
+2152,What is Google's stock price?,stock_query,user
+2153,Tell me the stock value of Amazon,stock_query,user
+2154,Give me the stock price of AAPL,stock_query,user
+2155,Tell me the stock value of Amazon,stock_query,user
+2156,Show me Tesla stock price,stock_query,user
+2157,What is the current share price of MSFT?,stock_query,user
+2158,Give me the stock price of AAPL,stock_query,user
+2159,Show me Tesla stock price,stock_query,user
+2160,Give me the stock price of AAPL,stock_query,user
+2161,What is Google's stock price?,stock_query,user
+2162,What is the current share price of MSFT?,stock_query,user
+2163,Tell me the stock value of Amazon,stock_query,user
+2164,What is Google's stock price?,stock_query,user
+2165,What is Google's stock price?,stock_query,user
+2166,What is the current share price of MSFT?,stock_query,user
+2167,Show me Tesla stock price,stock_query,user
+2168,What is the current share price of MSFT?,stock_query,user
+2169,What is the current share price of MSFT?,stock_query,user
+2170,What is the current share price of MSFT?,stock_query,user
+2171,Show me Tesla stock price,stock_query,user
+2172,What is the current share price of MSFT?,stock_query,user
+2173,Tell me the stock value of Amazon,stock_query,user
+2174,What is Google's stock price?,stock_query,user
+2175,Show me Tesla stock price,stock_query,user
+2176,Tell me the stock value of Amazon,stock_query,user
+2177,Tell me the stock value of Amazon,stock_query,user
+2178,Show me Tesla stock price,stock_query,user
+2179,Show me Tesla stock price,stock_query,user
+2180,What is the current share price of MSFT?,stock_query,user
+2181,Tell me the stock value of Amazon,stock_query,user
+2182,What is the current share price of MSFT?,stock_query,user
+2183,What is the current share price of MSFT?,stock_query,user
+2184,Tell me the stock value of Amazon,stock_query,user
+2185,Give me the stock price of AAPL,stock_query,user
+2186,What is the current share price of MSFT?,stock_query,user
+2187,Show me Tesla stock price,stock_query,user
+2188,What is the current share price of MSFT?,stock_query,user
+2189,Show me Tesla stock price,stock_query,user
+2190,What is the current share price of MSFT?,stock_query,user
+2191,What is Google's stock price?,stock_query,user
+2192,Show me Tesla stock price,stock_query,user
+2193,Show me Tesla stock price,stock_query,user
+2194,Give me the stock price of AAPL,stock_query,user
+2195,What is the current share price of MSFT?,stock_query,user
+2196,Tell me the stock value of Amazon,stock_query,user
+2197,Tell me the stock value of Amazon,stock_query,user
+2198,What is the current share price of MSFT?,stock_query,user
+2199,Show me Tesla stock price,stock_query,user
+2200,What is Google's stock price?,stock_query,user
+2201,What is Google's stock price?,stock_query,user
+2202,Tell me the stock value of Amazon,stock_query,user
+2203,Give me the stock price of AAPL,stock_query,user
+2204,What is Google's stock price?,stock_query,user
+2205,Show me Tesla stock price,stock_query,user
+2206,What is Google's stock price?,stock_query,user
+2207,Give me the stock price of AAPL,stock_query,user
+2208,Tell me the stock value of Amazon,stock_query,user
+2209,What is the current share price of MSFT?,stock_query,user
+2210,Show me Tesla stock price,stock_query,user
+2211,Show me Tesla stock price,stock_query,user
+2212,What is the current share price of MSFT?,stock_query,user
+2213,Give me the stock price of AAPL,stock_query,user
+2214,Give me the stock price of AAPL,stock_query,user
+2215,What is the current share price of MSFT?,stock_query,user
+2216,Show me Tesla stock price,stock_query,user
+2217,What is Google's stock price?,stock_query,user
+2218,Give me the stock price of AAPL,stock_query,user
+2219,What is the current share price of MSFT?,stock_query,user
+2220,Give me the stock price of AAPL,stock_query,user
+2221,Give me the stock price of AAPL,stock_query,user
+2222,What is Google's stock price?,stock_query,user
+2223,What is the current share price of MSFT?,stock_query,user
+2224,Show me Tesla stock price,stock_query,user
+2225,Show me Tesla stock price,stock_query,user
+2226,Give me the stock price of AAPL,stock_query,user
+2227,Tell me the stock value of Amazon,stock_query,user
+2228,What is Google's stock price?,stock_query,user
+2229,Tell me the stock value of Amazon,stock_query,user
+2230,What is the current share price of MSFT?,stock_query,user
+2231,What is the current share price of MSFT?,stock_query,user
+2232,What is Google's stock price?,stock_query,user
+2233,Tell me the stock value of Amazon,stock_query,user
+2234,Tell me the stock value of Amazon,stock_query,user
+2235,Show me Tesla stock price,stock_query,user
+2236,What is Google's stock price?,stock_query,user
+2237,Show me Tesla stock price,stock_query,user
+2238,Give me the stock price of AAPL,stock_query,user
+2239,Give me the stock price of AAPL,stock_query,user
+2240,Tell me the stock value of Amazon,stock_query,user
+2241,Give me the stock price of AAPL,stock_query,user
+2242,Show me Tesla stock price,stock_query,user
+2243,Give me the stock price of AAPL,stock_query,user
+2244,What is the current share price of MSFT?,stock_query,user
+2245,Tell me the stock value of Amazon,stock_query,user
+2246,Show me Tesla stock price,stock_query,user
+2247,What is Google's stock price?,stock_query,user
+2248,What is the current share price of MSFT?,stock_query,user
+2249,Give me the stock price of AAPL,stock_query,user
+2250,Show me Tesla stock price,stock_query,user
+2251,Multiply 6 by 7,calculation,user
+2252,How much is 15 minus 3?,calculation,user
+2253,What is 5 plus 10?,calculation,user
+2254,How much is 15 minus 3?,calculation,user
+2255,How much is 15 minus 3?,calculation,user
+2256,What is 5 plus 10?,calculation,user
+2257,Multiply 6 by 7,calculation,user
+2258,What is 5 plus 10?,calculation,user
+2259,What is 5 plus 10?,calculation,user
+2260,How much is 15 minus 3?,calculation,user
+2261,Calculate 20 divided by 4,calculation,user
+2262,How much is 15 minus 3?,calculation,user
+2263,Multiply 6 by 7,calculation,user
+2264,Calculate 20 divided by 4,calculation,user
+2265,What is 5 plus 10?,calculation,user
+2266,How much is 15 minus 3?,calculation,user
+2267,How much is 15 minus 3?,calculation,user
+2268,Calculate 20 divided by 4,calculation,user
+2269,What is 5 plus 10?,calculation,user
+2270,What is the sum of 8 and 12?,calculation,user
+2271,How much is 15 minus 3?,calculation,user
+2272,What is 5 plus 10?,calculation,user
+2273,Multiply 6 by 7,calculation,user
+2274,What is the sum of 8 and 12?,calculation,user
+2275,What is 5 plus 10?,calculation,user
+2276,Multiply 6 by 7,calculation,user
+2277,Calculate 20 divided by 4,calculation,user
+2278,What is the sum of 8 and 12?,calculation,user
+2279,What is 5 plus 10?,calculation,user
+2280,What is the sum of 8 and 12?,calculation,user
+2281,What is 5 plus 10?,calculation,user
+2282,Calculate 20 divided by 4,calculation,user
+2283,What is 5 plus 10?,calculation,user
+2284,How much is 15 minus 3?,calculation,user
+2285,What is the sum of 8 and 12?,calculation,user
+2286,How much is 15 minus 3?,calculation,user
+2287,What is 5 plus 10?,calculation,user
+2288,Calculate 20 divided by 4,calculation,user
+2289,What is the sum of 8 and 12?,calculation,user
+2290,Calculate 20 divided by 4,calculation,user
+2291,What is the sum of 8 and 12?,calculation,user
+2292,How much is 15 minus 3?,calculation,user
+2293,How much is 15 minus 3?,calculation,user
+2294,What is 5 plus 10?,calculation,user
+2295,What is the sum of 8 and 12?,calculation,user
+2296,What is 5 plus 10?,calculation,user
+2297,How much is 15 minus 3?,calculation,user
+2298,Calculate 20 divided by 4,calculation,user
+2299,What is the sum of 8 and 12?,calculation,user
+2300,What is 5 plus 10?,calculation,user
+2301,What is the sum of 8 and 12?,calculation,user
+2302,What is the sum of 8 and 12?,calculation,user
+2303,Calculate 20 divided by 4,calculation,user
+2304,What is 5 plus 10?,calculation,user
+2305,Multiply 6 by 7,calculation,user
+2306,Multiply 6 by 7,calculation,user
+2307,What is 5 plus 10?,calculation,user
+2308,Calculate 20 divided by 4,calculation,user
+2309,Calculate 20 divided by 4,calculation,user
+2310,How much is 15 minus 3?,calculation,user
+2311,Calculate 20 divided by 4,calculation,user
+2312,Calculate 20 divided by 4,calculation,user
+2313,What is 5 plus 10?,calculation,user
+2314,Calculate 20 divided by 4,calculation,user
+2315,Multiply 6 by 7,calculation,user
+2316,Multiply 6 by 7,calculation,user
+2317,Multiply 6 by 7,calculation,user
+2318,How much is 15 minus 3?,calculation,user
+2319,What is 5 plus 10?,calculation,user
+2320,Multiply 6 by 7,calculation,user
+2321,Calculate 20 divided by 4,calculation,user
+2322,Multiply 6 by 7,calculation,user
+2323,Calculate 20 divided by 4,calculation,user
+2324,Multiply 6 by 7,calculation,user
+2325,What is the sum of 8 and 12?,calculation,user
+2326,What is the sum of 8 and 12?,calculation,user
+2327,What is the sum of 8 and 12?,calculation,user
+2328,What is the sum of 8 and 12?,calculation,user
+2329,What is the sum of 8 and 12?,calculation,user
+2330,Calculate 20 divided by 4,calculation,user
+2331,Calculate 20 divided by 4,calculation,user
+2332,Multiply 6 by 7,calculation,user
+2333,How much is 15 minus 3?,calculation,user
+2334,What is the sum of 8 and 12?,calculation,user
+2335,What is the sum of 8 and 12?,calculation,user
+2336,What is the sum of 8 and 12?,calculation,user
+2337,Multiply 6 by 7,calculation,user
+2338,What is the sum of 8 and 12?,calculation,user
+2339,Multiply 6 by 7,calculation,user
+2340,What is 5 plus 10?,calculation,user
+2341,What is 5 plus 10?,calculation,user
+2342,Calculate 20 divided by 4,calculation,user
+2343,Calculate 20 divided by 4,calculation,user
+2344,Calculate 20 divided by 4,calculation,user
+2345,Multiply 6 by 7,calculation,user
+2346,What is 5 plus 10?,calculation,user
+2347,Multiply 6 by 7,calculation,user
+2348,How much is 15 minus 3?,calculation,user
+2349,What is 5 plus 10?,calculation,user
+2350,Calculate 20 divided by 4,calculation,user
+2351,What is 5 plus 10?,calculation,user
+2352,What is the sum of 8 and 12?,calculation,user
+2353,Multiply 6 by 7,calculation,user
+2354,What is 5 plus 10?,calculation,user
+2355,Calculate 20 divided by 4,calculation,user
+2356,How much is 15 minus 3?,calculation,user
+2357,Calculate 20 divided by 4,calculation,user
+2358,Calculate 20 divided by 4,calculation,user
+2359,Calculate 20 divided by 4,calculation,user
+2360,Multiply 6 by 7,calculation,user
+2361,Multiply 6 by 7,calculation,user
+2362,Calculate 20 divided by 4,calculation,user
+2363,How much is 15 minus 3?,calculation,user
+2364,How much is 15 minus 3?,calculation,user
+2365,Multiply 6 by 7,calculation,user
+2366,Multiply 6 by 7,calculation,user
+2367,What is the sum of 8 and 12?,calculation,user
+2368,Multiply 6 by 7,calculation,user
+2369,What is 5 plus 10?,calculation,user
+2370,How much is 15 minus 3?,calculation,user
+2371,How much is 15 minus 3?,calculation,user
+2372,How much is 15 minus 3?,calculation,user
+2373,How much is 15 minus 3?,calculation,user
+2374,Multiply 6 by 7,calculation,user
+2375,Calculate 20 divided by 4,calculation,user
+2376,What is 5 plus 10?,calculation,user
+2377,How much is 15 minus 3?,calculation,user
+2378,How much is 15 minus 3?,calculation,user
+2379,What is the sum of 8 and 12?,calculation,user
+2380,Calculate 20 divided by 4,calculation,user
+2381,How much is 15 minus 3?,calculation,user
+2382,Calculate 20 divided by 4,calculation,user
+2383,What is 5 plus 10?,calculation,user
+2384,What is 5 plus 10?,calculation,user
+2385,How much is 15 minus 3?,calculation,user
+2386,What is 5 plus 10?,calculation,user
+2387,How much is 15 minus 3?,calculation,user
+2388,What is the sum of 8 and 12?,calculation,user
+2389,What is the sum of 8 and 12?,calculation,user
+2390,Calculate 20 divided by 4,calculation,user
+2391,Multiply 6 by 7,calculation,user
+2392,Calculate 20 divided by 4,calculation,user
+2393,How much is 15 minus 3?,calculation,user
+2394,How much is 15 minus 3?,calculation,user
+2395,Multiply 6 by 7,calculation,user
+2396,What is 5 plus 10?,calculation,user
+2397,Calculate 20 divided by 4,calculation,user
+2398,Calculate 20 divided by 4,calculation,user
+2399,Calculate 20 divided by 4,calculation,user
+2400,How much is 15 minus 3?,calculation,user
+2401,What is 5 plus 10?,calculation,user
+2402,Multiply 6 by 7,calculation,user
+2403,Multiply 6 by 7,calculation,user
+2404,Calculate 20 divided by 4,calculation,user
+2405,Calculate 20 divided by 4,calculation,user
+2406,How much is 15 minus 3?,calculation,user
+2407,Calculate 20 divided by 4,calculation,user
+2408,Multiply 6 by 7,calculation,user
+2409,What is the sum of 8 and 12?,calculation,user
+2410,What is 5 plus 10?,calculation,user
+2411,How much is 15 minus 3?,calculation,user
+2412,What is the sum of 8 and 12?,calculation,user
+2413,How much is 15 minus 3?,calculation,user
+2414,What is the sum of 8 and 12?,calculation,user
+2415,How much is 15 minus 3?,calculation,user
+2416,Calculate 20 divided by 4,calculation,user
+2417,Calculate 20 divided by 4,calculation,user
+2418,What is 5 plus 10?,calculation,user
+2419,How much is 15 minus 3?,calculation,user
+2420,Multiply 6 by 7,calculation,user
+2421,Multiply 6 by 7,calculation,user
+2422,Calculate 20 divided by 4,calculation,user
+2423,What is the sum of 8 and 12?,calculation,user
+2424,What is 5 plus 10?,calculation,user
+2425,Multiply 6 by 7,calculation,user
+2426,Multiply 6 by 7,calculation,user
+2427,What is 5 plus 10?,calculation,user
+2428,What is the sum of 8 and 12?,calculation,user
+2429,How much is 15 minus 3?,calculation,user
+2430,What is the sum of 8 and 12?,calculation,user
+2431,What is 5 plus 10?,calculation,user
+2432,How much is 15 minus 3?,calculation,user
+2433,Calculate 20 divided by 4,calculation,user
+2434,Multiply 6 by 7,calculation,user
+2435,Multiply 6 by 7,calculation,user
+2436,Multiply 6 by 7,calculation,user
+2437,What is 5 plus 10?,calculation,user
+2438,Multiply 6 by 7,calculation,user
+2439,Calculate 20 divided by 4,calculation,user
+2440,Calculate 20 divided by 4,calculation,user
+2441,What is the sum of 8 and 12?,calculation,user
+2442,What is 5 plus 10?,calculation,user
+2443,Multiply 6 by 7,calculation,user
+2444,What is the sum of 8 and 12?,calculation,user
+2445,Multiply 6 by 7,calculation,user
+2446,What is 5 plus 10?,calculation,user
+2447,How much is 15 minus 3?,calculation,user
+2448,What is the sum of 8 and 12?,calculation,user
+2449,What is 5 plus 10?,calculation,user
+2450,Calculate 20 divided by 4,calculation,user
+2451,Calculate 20 divided by 4,calculation,user
+2452,Multiply 6 by 7,calculation,user
+2453,How much is 15 minus 3?,calculation,user
+2454,What is the sum of 8 and 12?,calculation,user
+2455,Multiply 6 by 7,calculation,user
+2456,Multiply 6 by 7,calculation,user
+2457,What is 5 plus 10?,calculation,user
+2458,What is the sum of 8 and 12?,calculation,user
+2459,What is 5 plus 10?,calculation,user
+2460,How much is 15 minus 3?,calculation,user
+2461,What is 5 plus 10?,calculation,user
+2462,Calculate 20 divided by 4,calculation,user
+2463,What is the sum of 8 and 12?,calculation,user
+2464,Calculate 20 divided by 4,calculation,user
+2465,How much is 15 minus 3?,calculation,user
+2466,Calculate 20 divided by 4,calculation,user
+2467,What is the sum of 8 and 12?,calculation,user
+2468,Calculate 20 divided by 4,calculation,user
+2469,What is the sum of 8 and 12?,calculation,user
+2470,Calculate 20 divided by 4,calculation,user
+2471,How much is 15 minus 3?,calculation,user
+2472,Multiply 6 by 7,calculation,user
+2473,Calculate 20 divided by 4,calculation,user
+2474,How much is 15 minus 3?,calculation,user
+2475,What is 5 plus 10?,calculation,user
+2476,Calculate 20 divided by 4,calculation,user
+2477,How much is 15 minus 3?,calculation,user
+2478,Multiply 6 by 7,calculation,user
+2479,What is the sum of 8 and 12?,calculation,user
+2480,How much is 15 minus 3?,calculation,user
+2481,How much is 15 minus 3?,calculation,user
+2482,How much is 15 minus 3?,calculation,user
+2483,Multiply 6 by 7,calculation,user
+2484,Multiply 6 by 7,calculation,user
+2485,How much is 15 minus 3?,calculation,user
+2486,Calculate 20 divided by 4,calculation,user
+2487,What is 5 plus 10?,calculation,user
+2488,Calculate 20 divided by 4,calculation,user
+2489,Multiply 6 by 7,calculation,user
+2490,How much is 15 minus 3?,calculation,user
+2491,What is the sum of 8 and 12?,calculation,user
+2492,Multiply 6 by 7,calculation,user
+2493,How much is 15 minus 3?,calculation,user
+2494,Multiply 6 by 7,calculation,user
+2495,What is the sum of 8 and 12?,calculation,user
+2496,Calculate 20 divided by 4,calculation,user
+2497,How much is 15 minus 3?,calculation,user
+2498,What is the sum of 8 and 12?,calculation,user
+2499,How much is 15 minus 3?,calculation,user
+2500,Calculate 20 divided by 4,calculation,user
+2501,What is the sum of 8 and 12?,calculation,user
+2502,What is 5 plus 10?,calculation,user
+2503,What is the sum of 8 and 12?,calculation,user
+2504,How much is 15 minus 3?,calculation,user
+2505,What is 5 plus 10?,calculation,user
+2506,What is the sum of 8 and 12?,calculation,user
+2507,Calculate 20 divided by 4,calculation,user
+2508,What is 5 plus 10?,calculation,user
+2509,What is 5 plus 10?,calculation,user
+2510,What is the sum of 8 and 12?,calculation,user
+2511,How much is 15 minus 3?,calculation,user
+2512,Calculate 20 divided by 4,calculation,user
+2513,What is 5 plus 10?,calculation,user
+2514,What is the sum of 8 and 12?,calculation,user
+2515,Calculate 20 divided by 4,calculation,user
+2516,What is the sum of 8 and 12?,calculation,user
+2517,What is 5 plus 10?,calculation,user
+2518,What is 5 plus 10?,calculation,user
+2519,What is the sum of 8 and 12?,calculation,user
+2520,Calculate 20 divided by 4,calculation,user
+2521,What is the sum of 8 and 12?,calculation,user
+2522,Calculate 20 divided by 4,calculation,user
+2523,Calculate 20 divided by 4,calculation,user
+2524,How much is 15 minus 3?,calculation,user
+2525,Calculate 20 divided by 4,calculation,user
+2526,Calculate 20 divided by 4,calculation,user
+2527,How much is 15 minus 3?,calculation,user
+2528,Multiply 6 by 7,calculation,user
+2529,Multiply 6 by 7,calculation,user
+2530,What is the sum of 8 and 12?,calculation,user
+2531,How much is 15 minus 3?,calculation,user
+2532,What is the sum of 8 and 12?,calculation,user
+2533,Multiply 6 by 7,calculation,user
+2534,What is the sum of 8 and 12?,calculation,user
+2535,Calculate 20 divided by 4,calculation,user
+2536,What is 5 plus 10?,calculation,user
+2537,What is the sum of 8 and 12?,calculation,user
+2538,What is 5 plus 10?,calculation,user
+2539,What is the sum of 8 and 12?,calculation,user
+2540,Calculate 20 divided by 4,calculation,user
+2541,What is the sum of 8 and 12?,calculation,user
+2542,Calculate 20 divided by 4,calculation,user
+2543,Multiply 6 by 7,calculation,user
+2544,How much is 15 minus 3?,calculation,user
+2545,What is the sum of 8 and 12?,calculation,user
+2546,Multiply 6 by 7,calculation,user
+2547,What is the sum of 8 and 12?,calculation,user
+2548,What is the sum of 8 and 12?,calculation,user
+2549,How much is 15 minus 3?,calculation,user
+2550,How much is 15 minus 3?,calculation,user
+2551,Calculate 20 divided by 4,calculation,user
+2552,Multiply 6 by 7,calculation,user
+2553,What is the sum of 8 and 12?,calculation,user
+2554,How much is 15 minus 3?,calculation,user
+2555,Calculate 20 divided by 4,calculation,user
+2556,Multiply 6 by 7,calculation,user
+2557,What is 5 plus 10?,calculation,user
+2558,Multiply 6 by 7,calculation,user
+2559,Calculate 20 divided by 4,calculation,user
+2560,What is the sum of 8 and 12?,calculation,user
+2561,What is 5 plus 10?,calculation,user
+2562,Multiply 6 by 7,calculation,user
+2563,How much is 15 minus 3?,calculation,user
+2564,Calculate 20 divided by 4,calculation,user
+2565,Calculate 20 divided by 4,calculation,user
+2566,What is the sum of 8 and 12?,calculation,user
+2567,How much is 15 minus 3?,calculation,user
+2568,How much is 15 minus 3?,calculation,user
+2569,What is the sum of 8 and 12?,calculation,user
+2570,What is 5 plus 10?,calculation,user
+2571,What is 5 plus 10?,calculation,user
+2572,What is the sum of 8 and 12?,calculation,user
+2573,What is the sum of 8 and 12?,calculation,user
+2574,How much is 15 minus 3?,calculation,user
+2575,How much is 15 minus 3?,calculation,user
+2576,How much is 15 minus 3?,calculation,user
+2577,How much is 15 minus 3?,calculation,user
+2578,What is the sum of 8 and 12?,calculation,user
+2579,How much is 15 minus 3?,calculation,user
+2580,Multiply 6 by 7,calculation,user
+2581,Multiply 6 by 7,calculation,user
+2582,How much is 15 minus 3?,calculation,user
+2583,What is 5 plus 10?,calculation,user
+2584,What is 5 plus 10?,calculation,user
+2585,How much is 15 minus 3?,calculation,user
+2586,How much is 15 minus 3?,calculation,user
+2587,Multiply 6 by 7,calculation,user
+2588,What is 5 plus 10?,calculation,user
+2589,How much is 15 minus 3?,calculation,user
+2590,How much is 15 minus 3?,calculation,user
+2591,Multiply 6 by 7,calculation,user
+2592,What is 5 plus 10?,calculation,user
+2593,What is 5 plus 10?,calculation,user
+2594,What is the sum of 8 and 12?,calculation,user
+2595,Multiply 6 by 7,calculation,user
+2596,Multiply 6 by 7,calculation,user
+2597,Calculate 20 divided by 4,calculation,user
+2598,How much is 15 minus 3?,calculation,user
+2599,Multiply 6 by 7,calculation,user
+2600,What is the sum of 8 and 12?,calculation,user
+2601,Multiply 6 by 7,calculation,user
+2602,How much is 15 minus 3?,calculation,user
+2603,What is the sum of 8 and 12?,calculation,user
+2604,What is the sum of 8 and 12?,calculation,user
+2605,What is the sum of 8 and 12?,calculation,user
+2606,Calculate 20 divided by 4,calculation,user
+2607,What is the sum of 8 and 12?,calculation,user
+2608,Calculate 20 divided by 4,calculation,user
+2609,Multiply 6 by 7,calculation,user
+2610,What is 5 plus 10?,calculation,user
+2611,Calculate 20 divided by 4,calculation,user
+2612,What is 5 plus 10?,calculation,user
+2613,What is the sum of 8 and 12?,calculation,user
+2614,What is the sum of 8 and 12?,calculation,user
+2615,How much is 15 minus 3?,calculation,user
+2616,How much is 15 minus 3?,calculation,user
+2617,What is 5 plus 10?,calculation,user
+2618,How much is 15 minus 3?,calculation,user
+2619,How much is 15 minus 3?,calculation,user
+2620,Calculate 20 divided by 4,calculation,user
+2621,What is the sum of 8 and 12?,calculation,user
+2622,What is 5 plus 10?,calculation,user
+2623,What is 5 plus 10?,calculation,user
+2624,Multiply 6 by 7,calculation,user
+2625,What is the sum of 8 and 12?,calculation,user
+2626,What is 5 plus 10?,calculation,user
+2627,What is the sum of 8 and 12?,calculation,user
+2628,Calculate 20 divided by 4,calculation,user
+2629,What is 5 plus 10?,calculation,user
+2630,What is the sum of 8 and 12?,calculation,user
+2631,What is the sum of 8 and 12?,calculation,user
+2632,Calculate 20 divided by 4,calculation,user
+2633,What is 5 plus 10?,calculation,user
+2634,What is the sum of 8 and 12?,calculation,user
+2635,What is 5 plus 10?,calculation,user
+2636,What is 5 plus 10?,calculation,user
+2637,What is 5 plus 10?,calculation,user
+2638,What is 5 plus 10?,calculation,user
+2639,What is the sum of 8 and 12?,calculation,user
+2640,What is 5 plus 10?,calculation,user
+2641,Multiply 6 by 7,calculation,user
+2642,What is 5 plus 10?,calculation,user
+2643,Calculate 20 divided by 4,calculation,user
+2644,Calculate 20 divided by 4,calculation,user
+2645,Multiply 6 by 7,calculation,user
+2646,What is 5 plus 10?,calculation,user
+2647,What is 5 plus 10?,calculation,user
+2648,Multiply 6 by 7,calculation,user
+2649,What is 5 plus 10?,calculation,user
+2650,Calculate 20 divided by 4,calculation,user
+2651,Multiply 6 by 7,calculation,user
+2652,Calculate 20 divided by 4,calculation,user
+2653,What is the sum of 8 and 12?,calculation,user
+2654,How much is 15 minus 3?,calculation,user
+2655,Multiply 6 by 7,calculation,user
+2656,What is 5 plus 10?,calculation,user
+2657,How much is 15 minus 3?,calculation,user
+2658,Multiply 6 by 7,calculation,user
+2659,Calculate 20 divided by 4,calculation,user
+2660,What is the sum of 8 and 12?,calculation,user
+2661,Calculate 20 divided by 4,calculation,user
+2662,What is 5 plus 10?,calculation,user
+2663,Calculate 20 divided by 4,calculation,user
+2664,What is 5 plus 10?,calculation,user
+2665,Calculate 20 divided by 4,calculation,user
+2666,What is 5 plus 10?,calculation,user
+2667,What is 5 plus 10?,calculation,user
+2668,What is 5 plus 10?,calculation,user
+2669,What is the sum of 8 and 12?,calculation,user
+2670,Multiply 6 by 7,calculation,user
+2671,Multiply 6 by 7,calculation,user
+2672,Calculate 20 divided by 4,calculation,user
+2673,Multiply 6 by 7,calculation,user
+2674,What is 5 plus 10?,calculation,user
+2675,What is 5 plus 10?,calculation,user
+2676,Calculate 20 divided by 4,calculation,user
+2677,How much is 15 minus 3?,calculation,user
+2678,Calculate 20 divided by 4,calculation,user
+2679,What is the sum of 8 and 12?,calculation,user
+2680,How much is 15 minus 3?,calculation,user
+2681,What is 5 plus 10?,calculation,user
+2682,What is 5 plus 10?,calculation,user
+2683,Calculate 20 divided by 4,calculation,user
+2684,Calculate 20 divided by 4,calculation,user
+2685,Multiply 6 by 7,calculation,user
+2686,What is the sum of 8 and 12?,calculation,user
+2687,How much is 15 minus 3?,calculation,user
+2688,How much is 15 minus 3?,calculation,user
+2689,What is the sum of 8 and 12?,calculation,user
+2690,What is 5 plus 10?,calculation,user
+2691,Calculate 20 divided by 4,calculation,user
+2692,Calculate 20 divided by 4,calculation,user
+2693,What is 5 plus 10?,calculation,user
+2694,Multiply 6 by 7,calculation,user
+2695,Multiply 6 by 7,calculation,user
+2696,Multiply 6 by 7,calculation,user
+2697,How much is 15 minus 3?,calculation,user
+2698,What is the sum of 8 and 12?,calculation,user
+2699,What is the sum of 8 and 12?,calculation,user
+2700,Calculate 20 divided by 4,calculation,user
+2701,Multiply 6 by 7,calculation,user
+2702,Calculate 20 divided by 4,calculation,user
+2703,How much is 15 minus 3?,calculation,user
+2704,Multiply 6 by 7,calculation,user
+2705,What is the sum of 8 and 12?,calculation,user
+2706,How much is 15 minus 3?,calculation,user
+2707,What is 5 plus 10?,calculation,user
+2708,Calculate 20 divided by 4,calculation,user
+2709,What is 5 plus 10?,calculation,user
+2710,Calculate 20 divided by 4,calculation,user
+2711,Multiply 6 by 7,calculation,user
+2712,What is the sum of 8 and 12?,calculation,user
+2713,What is the sum of 8 and 12?,calculation,user
+2714,Calculate 20 divided by 4,calculation,user
+2715,What is the sum of 8 and 12?,calculation,user
+2716,What is the sum of 8 and 12?,calculation,user
+2717,What is the sum of 8 and 12?,calculation,user
+2718,Multiply 6 by 7,calculation,user
+2719,Calculate 20 divided by 4,calculation,user
+2720,Calculate 20 divided by 4,calculation,user
+2721,How much is 15 minus 3?,calculation,user
+2722,Calculate 20 divided by 4,calculation,user
+2723,Multiply 6 by 7,calculation,user
+2724,What is 5 plus 10?,calculation,user
+2725,What is 5 plus 10?,calculation,user
+2726,What is 5 plus 10?,calculation,user
+2727,How much is 15 minus 3?,calculation,user
+2728,Calculate 20 divided by 4,calculation,user
+2729,Calculate 20 divided by 4,calculation,user
+2730,Calculate 20 divided by 4,calculation,user
+2731,Calculate 20 divided by 4,calculation,user
+2732,How much is 15 minus 3?,calculation,user
+2733,What is 5 plus 10?,calculation,user
+2734,How much is 15 minus 3?,calculation,user
+2735,What is 5 plus 10?,calculation,user
+2736,What is 5 plus 10?,calculation,user
+2737,What is the sum of 8 and 12?,calculation,user
+2738,Multiply 6 by 7,calculation,user
+2739,What is 5 plus 10?,calculation,user
+2740,How much is 15 minus 3?,calculation,user
+2741,What is 5 plus 10?,calculation,user
+2742,Calculate 20 divided by 4,calculation,user
+2743,Multiply 6 by 7,calculation,user
+2744,What is the sum of 8 and 12?,calculation,user
+2745,Multiply 6 by 7,calculation,user
+2746,Multiply 6 by 7,calculation,user
+2747,What is 5 plus 10?,calculation,user
+2748,Multiply 6 by 7,calculation,user
+2749,How much is 15 minus 3?,calculation,user
+2750,What is 5 plus 10?,calculation,user
+2751,How much is 15 minus 3?,calculation,user
+2752,What is 5 plus 10?,calculation,user
+2753,Multiply 6 by 7,calculation,user
+2754,Calculate 20 divided by 4,calculation,user
+2755,Multiply 6 by 7,calculation,user
+2756,How much is 15 minus 3?,calculation,user
+2757,What is the sum of 8 and 12?,calculation,user
+2758,What is the sum of 8 and 12?,calculation,user
+2759,How much is 15 minus 3?,calculation,user
+2760,What is 5 plus 10?,calculation,user
+2761,How much is 15 minus 3?,calculation,user
+2762,What is 5 plus 10?,calculation,user
+2763,What is the sum of 8 and 12?,calculation,user
+2764,How much is 15 minus 3?,calculation,user
+2765,What is 5 plus 10?,calculation,user
+2766,Multiply 6 by 7,calculation,user
+2767,Multiply 6 by 7,calculation,user
+2768,How much is 15 minus 3?,calculation,user
+2769,Calculate 20 divided by 4,calculation,user
+2770,What is the sum of 8 and 12?,calculation,user
+2771,What is the sum of 8 and 12?,calculation,user
+2772,What is 5 plus 10?,calculation,user
+2773,What is the sum of 8 and 12?,calculation,user
+2774,Multiply 6 by 7,calculation,user
+2775,How much is 15 minus 3?,calculation,user
+2776,Multiply 6 by 7,calculation,user
+2777,Calculate 20 divided by 4,calculation,user
+2778,Multiply 6 by 7,calculation,user
+2779,Calculate 20 divided by 4,calculation,user
+2780,How much is 15 minus 3?,calculation,user
+2781,Multiply 6 by 7,calculation,user
+2782,How much is 15 minus 3?,calculation,user
+2783,How much is 15 minus 3?,calculation,user
+2784,How much is 15 minus 3?,calculation,user
+2785,Multiply 6 by 7,calculation,user
+2786,What is 5 plus 10?,calculation,user
+2787,What is 5 plus 10?,calculation,user
+2788,How much is 15 minus 3?,calculation,user
+2789,Calculate 20 divided by 4,calculation,user
+2790,What is 5 plus 10?,calculation,user
+2791,Multiply 6 by 7,calculation,user
+2792,What is 5 plus 10?,calculation,user
+2793,How much is 15 minus 3?,calculation,user
+2794,How much is 15 minus 3?,calculation,user
+2795,How much is 15 minus 3?,calculation,user
+2796,Multiply 6 by 7,calculation,user
+2797,What is the sum of 8 and 12?,calculation,user
+2798,What is the sum of 8 and 12?,calculation,user
+2799,How much is 15 minus 3?,calculation,user
+2800,What is 5 plus 10?,calculation,user
+2801,What is the sum of 8 and 12?,calculation,user
+2802,Calculate 20 divided by 4,calculation,user
+2803,Multiply 6 by 7,calculation,user
+2804,How much is 15 minus 3?,calculation,user
+2805,What is 5 plus 10?,calculation,user
+2806,What is 5 plus 10?,calculation,user
+2807,How much is 15 minus 3?,calculation,user
+2808,What is 5 plus 10?,calculation,user
+2809,Multiply 6 by 7,calculation,user
+2810,What is 5 plus 10?,calculation,user
+2811,Multiply 6 by 7,calculation,user
+2812,What is the sum of 8 and 12?,calculation,user
+2813,What is 5 plus 10?,calculation,user
+2814,How much is 15 minus 3?,calculation,user
+2815,How much is 15 minus 3?,calculation,user
+2816,What is the sum of 8 and 12?,calculation,user
+2817,What is the sum of 8 and 12?,calculation,user
+2818,What is 5 plus 10?,calculation,user
+2819,Calculate 20 divided by 4,calculation,user
+2820,What is the sum of 8 and 12?,calculation,user
+2821,Calculate 20 divided by 4,calculation,user
+2822,Multiply 6 by 7,calculation,user
+2823,How much is 15 minus 3?,calculation,user
+2824,Calculate 20 divided by 4,calculation,user
+2825,How much is 15 minus 3?,calculation,user
+2826,What is the sum of 8 and 12?,calculation,user
+2827,What is the sum of 8 and 12?,calculation,user
+2828,What is the sum of 8 and 12?,calculation,user
+2829,Multiply 6 by 7,calculation,user
+2830,How much is 15 minus 3?,calculation,user
+2831,Multiply 6 by 7,calculation,user
+2832,How much is 15 minus 3?,calculation,user
+2833,What is 5 plus 10?,calculation,user
+2834,What is 5 plus 10?,calculation,user
+2835,What is 5 plus 10?,calculation,user
+2836,How much is 15 minus 3?,calculation,user
+2837,Multiply 6 by 7,calculation,user
+2838,How much is 15 minus 3?,calculation,user
+2839,What is 5 plus 10?,calculation,user
+2840,What is 5 plus 10?,calculation,user
+2841,What is the sum of 8 and 12?,calculation,user
+2842,Multiply 6 by 7,calculation,user
+2843,What is 5 plus 10?,calculation,user
+2844,Calculate 20 divided by 4,calculation,user
+2845,Multiply 6 by 7,calculation,user
+2846,What is the sum of 8 and 12?,calculation,user
+2847,What is 5 plus 10?,calculation,user
+2848,What is 5 plus 10?,calculation,user
+2849,Multiply 6 by 7,calculation,user
+2850,Multiply 6 by 7,calculation,user
+2851,What is 5 plus 10?,calculation,user
+2852,What is the sum of 8 and 12?,calculation,user
+2853,What is 5 plus 10?,calculation,user
+2854,What is the sum of 8 and 12?,calculation,user
+2855,What is 5 plus 10?,calculation,user
+2856,Multiply 6 by 7,calculation,user
+2857,Multiply 6 by 7,calculation,user
+2858,What is the sum of 8 and 12?,calculation,user
+2859,How much is 15 minus 3?,calculation,user
+2860,Multiply 6 by 7,calculation,user
+2861,What is 5 plus 10?,calculation,user
+2862,Multiply 6 by 7,calculation,user
+2863,What is 5 plus 10?,calculation,user
+2864,What is 5 plus 10?,calculation,user
+2865,Multiply 6 by 7,calculation,user
+2866,What is the sum of 8 and 12?,calculation,user
+2867,Multiply 6 by 7,calculation,user
+2868,What is 5 plus 10?,calculation,user
+2869,What is the sum of 8 and 12?,calculation,user
+2870,What is the sum of 8 and 12?,calculation,user
+2871,How much is 15 minus 3?,calculation,user
+2872,Multiply 6 by 7,calculation,user
+2873,How much is 15 minus 3?,calculation,user
+2874,Calculate 20 divided by 4,calculation,user
+2875,Multiply 6 by 7,calculation,user
+2876,What is the sum of 8 and 12?,calculation,user
+2877,What is 5 plus 10?,calculation,user
+2878,How much is 15 minus 3?,calculation,user
+2879,How much is 15 minus 3?,calculation,user
+2880,What is 5 plus 10?,calculation,user
+2881,Calculate 20 divided by 4,calculation,user
+2882,What is 5 plus 10?,calculation,user
+2883,Multiply 6 by 7,calculation,user
+2884,How much is 15 minus 3?,calculation,user
+2885,How much is 15 minus 3?,calculation,user
+2886,Calculate 20 divided by 4,calculation,user
+2887,Multiply 6 by 7,calculation,user
+2888,Calculate 20 divided by 4,calculation,user
+2889,Calculate 20 divided by 4,calculation,user
+2890,What is the sum of 8 and 12?,calculation,user
+2891,How much is 15 minus 3?,calculation,user
+2892,What is the sum of 8 and 12?,calculation,user
+2893,Multiply 6 by 7,calculation,user
+2894,What is 5 plus 10?,calculation,user
+2895,Multiply 6 by 7,calculation,user
+2896,How much is 15 minus 3?,calculation,user
+2897,Calculate 20 divided by 4,calculation,user
+2898,What is 5 plus 10?,calculation,user
+2899,How much is 15 minus 3?,calculation,user
+2900,What is 5 plus 10?,calculation,user
+2901,What is the sum of 8 and 12?,calculation,user
+2902,What is 5 plus 10?,calculation,user
+2903,Multiply 6 by 7,calculation,user
+2904,Multiply 6 by 7,calculation,user
+2905,How much is 15 minus 3?,calculation,user
+2906,What is the sum of 8 and 12?,calculation,user
+2907,Multiply 6 by 7,calculation,user
+2908,How much is 15 minus 3?,calculation,user
+2909,What is 5 plus 10?,calculation,user
+2910,Calculate 20 divided by 4,calculation,user
+2911,How much is 15 minus 3?,calculation,user
+2912,Multiply 6 by 7,calculation,user
+2913,What is the sum of 8 and 12?,calculation,user
+2914,How much is 15 minus 3?,calculation,user
+2915,Calculate 20 divided by 4,calculation,user
+2916,What is 5 plus 10?,calculation,user
+2917,How much is 15 minus 3?,calculation,user
+2918,Calculate 20 divided by 4,calculation,user
+2919,What is 5 plus 10?,calculation,user
+2920,How much is 15 minus 3?,calculation,user
+2921,How much is 15 minus 3?,calculation,user
+2922,What is 5 plus 10?,calculation,user
+2923,Multiply 6 by 7,calculation,user
+2924,Calculate 20 divided by 4,calculation,user
+2925,How much is 15 minus 3?,calculation,user
+2926,How much is 15 minus 3?,calculation,user
+2927,What is 5 plus 10?,calculation,user
+2928,What is the sum of 8 and 12?,calculation,user
+2929,What is 5 plus 10?,calculation,user
+2930,How much is 15 minus 3?,calculation,user
+2931,Multiply 6 by 7,calculation,user
+2932,What is 5 plus 10?,calculation,user
+2933,What is 5 plus 10?,calculation,user
+2934,Multiply 6 by 7,calculation,user
+2935,Calculate 20 divided by 4,calculation,user
+2936,What is 5 plus 10?,calculation,user
+2937,Multiply 6 by 7,calculation,user
+2938,What is 5 plus 10?,calculation,user
+2939,What is 5 plus 10?,calculation,user
+2940,Multiply 6 by 7,calculation,user
+2941,Multiply 6 by 7,calculation,user
+2942,What is 5 plus 10?,calculation,user
+2943,Calculate 20 divided by 4,calculation,user
+2944,Multiply 6 by 7,calculation,user
+2945,Multiply 6 by 7,calculation,user
+2946,Multiply 6 by 7,calculation,user
+2947,What is the sum of 8 and 12?,calculation,user
+2948,What is the sum of 8 and 12?,calculation,user
+2949,How much is 15 minus 3?,calculation,user
+2950,Calculate 20 divided by 4,calculation,user
+2951,Calculate 20 divided by 4,calculation,user
+2952,Multiply 6 by 7,calculation,user
+2953,What is the sum of 8 and 12?,calculation,user
+2954,What is the sum of 8 and 12?,calculation,user
+2955,Calculate 20 divided by 4,calculation,user
+2956,What is 5 plus 10?,calculation,user
+2957,How much is 15 minus 3?,calculation,user
+2958,How much is 15 minus 3?,calculation,user
+2959,How much is 15 minus 3?,calculation,user
+2960,Multiply 6 by 7,calculation,user
+2961,How much is 15 minus 3?,calculation,user
+2962,Calculate 20 divided by 4,calculation,user
+2963,Multiply 6 by 7,calculation,user
+2964,What is the sum of 8 and 12?,calculation,user
+2965,Calculate 20 divided by 4,calculation,user
+2966,Calculate 20 divided by 4,calculation,user
+2967,What is the sum of 8 and 12?,calculation,user
+2968,Calculate 20 divided by 4,calculation,user
+2969,What is the sum of 8 and 12?,calculation,user
+2970,Multiply 6 by 7,calculation,user
+2971,What is the sum of 8 and 12?,calculation,user
+2972,Multiply 6 by 7,calculation,user
+2973,How much is 15 minus 3?,calculation,user
+2974,How much is 15 minus 3?,calculation,user
+2975,Multiply 6 by 7,calculation,user
+2976,Calculate 20 divided by 4,calculation,user
+2977,What is the sum of 8 and 12?,calculation,user
+2978,What is the sum of 8 and 12?,calculation,user
+2979,How much is 15 minus 3?,calculation,user
+2980,Multiply 6 by 7,calculation,user
+2981,What is 5 plus 10?,calculation,user
+2982,What is 5 plus 10?,calculation,user
+2983,Multiply 6 by 7,calculation,user
+2984,What is the sum of 8 and 12?,calculation,user
+2985,Calculate 20 divided by 4,calculation,user
+2986,Multiply 6 by 7,calculation,user
+2987,What is the sum of 8 and 12?,calculation,user
+2988,Calculate 20 divided by 4,calculation,user
+2989,What is 5 plus 10?,calculation,user
+2990,How much is 15 minus 3?,calculation,user
+2991,Multiply 6 by 7,calculation,user
+2992,What is the sum of 8 and 12?,calculation,user
+2993,What is the sum of 8 and 12?,calculation,user
+2994,Multiply 6 by 7,calculation,user
+2995,Multiply 6 by 7,calculation,user
+2996,What is the sum of 8 and 12?,calculation,user
+2997,What is 5 plus 10?,calculation,user
+2998,How much is 15 minus 3?,calculation,user
+2999,What is the sum of 8 and 12?,calculation,user
+3000,What is 5 plus 10?,calculation,user

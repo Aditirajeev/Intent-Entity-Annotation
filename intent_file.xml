@@ -1,0 +1,19 @@
+<View>
+  <!-- Entity Labeling (NER) -->
+  <Labels name="entity_slot" toName="message">
+    <Label value="Quantity" background="#FFA39E"/>
+    <Label value="Product" background="#D4380D"/>
+    <Label value="Stock Ticker" background="#FFC069"/>
+    <Label value="Day" background="#ADB800"/>
+  </Labels>
+
+  <!-- Text Display -->
+  <Text name="message" value="$text"/>
+
+  <!-- Intent Classification -->
+  <Choices name="intent" toName="message" choice="single" showInLine="true">
+    <Choice value="Stock Price"/>
+    <Choice value="Product Price"/>
+    <Choice value="Weather"/>
+  </Choices>
+</View>
